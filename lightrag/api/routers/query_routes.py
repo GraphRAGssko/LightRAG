@@ -1156,4 +1156,33 @@ def create_query_routes(rag, api_key: Optional[str] = None, top_k: int = 60):
             logger.error(f"Error processing data query: {str(e)}", exc_info=True)
             raise HTTPException(status_code=500, detail=str(e))
 
+    @router.get("/query/history", dependencies=[Depends(combined_auth)])
+    async def get_chat_history():
+        """Get chat history from server storage"""
+        try:
+            import os
+            import json
+            history_file = os.path.join(rag.working_dir, "chat_history.json")
+            if os.path.exists(history_file):
+                with open(history_file, "r", encoding="utf-8") as f:
+                    return json.load(f)
+            return []
+        except Exception as e:
+            logger.error(f"Error getting chat history: {str(e)}")
+            return []
+
+    @router.post("/query/history", dependencies=[Depends(combined_auth)])
+    async def save_chat_history(history: List[Dict[str, Any]]):
+        """Save chat history to server storage"""
+        try:
+            import os
+            import json
+            history_file = os.path.join(rag.working_dir, "chat_history.json")
+            with open(history_file, "w", encoding="utf-8") as f:
+                json.dump(history, f, ensure_ascii=False, indent=2)
+            return {"status": "success"}
+        except Exception as e:
+            logger.error(f"Error saving chat history: {str(e)}")
+            raise HTTPException(status_code=500, detail=str(e))
+
     return router

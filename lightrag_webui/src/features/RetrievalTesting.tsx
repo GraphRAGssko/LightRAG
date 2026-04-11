@@ -3,7 +3,7 @@ import Input from '@/components/ui/Input'
 import Button from '@/components/ui/Button'
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { throttle } from '@/lib/utils'
-import { queryText, queryTextStream } from '@/api/lightrag'
+import { queryText, queryTextStream, getChatHistory, saveChatHistory } from '@/api/lightrag'
 import { errorMessage } from '@/lib/utils'
 import { useSettingsStore } from '@/stores/settings'
 import { useDebounce } from '@/hooks/useDebounce'
@@ -137,6 +137,30 @@ export default function RetrievalTesting() {
       return [] // Return an empty array if there's an error
     }
   })
+
+  useEffect(() => {
+    const loadHistory = async () => {
+      try {
+        const history = await getChatHistory()
+        if (history && Array.isArray(history)) {
+          const formattedHistory = history.map((msg: any, index: number) => {
+            return {
+              ...msg,
+              id: msg.id || `hist-${Date.now()}-${index}`,
+              mermaidRendered: msg.mermaidRendered ?? true,
+              latexRendered: msg.latexRendered ?? true
+            }
+          })
+          setMessages(formattedHistory)
+          useSettingsStore.getState().setRetrievalHistory(history)
+        }
+      } catch (error) {
+        console.error('Error loading history from server:', error)
+      }
+    }
+    loadHistory()
+  }, [])
+
   const [inputValue, setInputValue] = useState('')
   const [isLoading, setIsLoading] = useState(false)
   const [inputError, setInputError] = useState('') // Error message for input
@@ -422,9 +446,11 @@ export default function RetrievalTesting() {
 
         // Save history with error handling
         try {
+          const updatedHistory = [...prevMessages, userMessage, assistantMessage]
           useSettingsStore
             .getState()
-            .setRetrievalHistory([...prevMessages, userMessage, assistantMessage])
+            .setRetrievalHistory(updatedHistory)
+          saveChatHistory(updatedHistory)
         } catch (error) {
           console.error('Error saving retrieval history:', error)
         }
@@ -620,6 +646,7 @@ export default function RetrievalTesting() {
   const clearMessages = useCallback(() => {
     setMessages([])
     useSettingsStore.getState().setRetrievalHistory([])
+    saveChatHistory([])
   }, [setMessages])
 
   // Handle copying message content with robust clipboard support

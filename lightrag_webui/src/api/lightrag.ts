@@ -1019,3 +1019,22 @@ export const getDocumentStatusCounts = async (): Promise<StatusCountsResponse> =
   const response = await axiosInstance.get('/documents/status_counts')
   return response.data
 }
+
+export const getChatHistory = async (): Promise<Message[]> => {
+  try {
+    const response = await axiosInstance.get('/query/history')
+    return response.data
+  } catch (error) {
+    console.error('Error fetching chat history from server:', error)
+    return []
+  }
+}
+
+export const saveChatHistory = async (history: Message[]): Promise<void> => {
+  try {
+    await axiosInstance.post('/query/history', history)
+  } catch (error) {
+    console.error('Error saving chat history to server:', error)
+  }
+}
+
