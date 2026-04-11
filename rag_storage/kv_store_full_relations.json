@@ -1,0 +1,566 @@
+{
+  "doc-cc590270453f4159aa7d88357bff1dc3": {
+    "relation_pairs": [
+      [
+        "Henry",
+        "Margaret"
+      ],
+      [
+        "Richard Neville, Earl of Warwick",
+        "Richard, Duke of York"
+      ],
+      [
+        "Henry VI",
+        "House of Lancaster"
+      ],
+      [
+        "Henry VI",
+        "Margaret of Anjou"
+      ],
+      [
+        "Lancastrians",
+        "York"
+      ],
+      [
+        "Edward",
+        "Margaret"
+      ],
+      [
+        "Henry VI",
+        "Richard, Duke of York"
+      ],
+      [
+        "Edward III",
+        "House of Lancaster"
+      ],
+      [
+        "Battle of Bosworth Field",
+        "Henry Tudor"
+      ],
+      [
+        "Duke of York",
+        "Edward"
+      ],
+      [
+        "London",
+        "National Portrait Gallery"
+      ],
+      [
+        "Edward III",
+        "House of York"
+      ],
+      [
+        "Edward",
+        "Towton"
+      ],
+      [
+        "House of York",
+        "Wars of the Roses"
+      ],
+      [
+        "House of Lancaster",
+        "Wars of the Roses"
+      ],
+      [
+        "Edward",
+        "King Edward IV"
+      ],
+      [
+        "Edward IV",
+        "Henry VII"
+      ],
+      [
+        "Richard, Duke of York",
+        "Wars of the Roses"
+      ],
+      [
+        "Warwick",
+        "York"
+      ],
+      [
+        "Edward",
+        "Second Battle of St. Albans"
+      ]
+    ],
+    "count": 20,
+    "create_time": 1774834676,
+    "update_time": 1774834676,
+    "_id": "doc-cc590270453f4159aa7d88357bff1dc3"
+  },
+  "doc-d478687602ee841ad180b1ac8189c15d": {
+    "relation_pairs": [
+      [
+        "Civil Law",
+        "Movable Property"
+      ],
+      [
+        "Mortgage",
+        "Secured Transaction"
+      ],
+      [
+        "Creditor",
+        "Third Parties"
+      ],
+      [
+        "Javins v. First Natl Realty Co.",
+        "Local Housing Code"
+      ],
+      [
+        "Common-Law Property Jurisdictions",
+        "Marital Property"
+      ],
+      [
+        "Property Law",
+        "Trusts"
+      ],
+      [
+        "American Indians",
+        "Noncitizens"
+      ],
+      [
+        "Owner of the House",
+        "Peaceable Possessor"
+      ],
+      [
+        "Community Property",
+        "Marital Property"
+      ],
+      [
+        "American Legal System",
+        "Civil-Law Systems"
+      ],
+      [
+        "Property Rights",
+        "Property-as-Propriety"
+      ],
+      [
+        "House Occupant",
+        "Owner of the House"
+      ],
+      [
+        "Civil Law",
+        "Prescription"
+      ],
+      [
+        "Commercial Tenancies",
+        "Residential Tenancies"
+      ],
+      [
+        "Forcible Entry and Detainer",
+        "Statutory Possessory Action"
+      ],
+      [
+        "Charitable Trust",
+        "Civil Law Foundation"
+      ],
+      [
+        "Children",
+        "Competent Adult Women"
+      ],
+      [
+        "French Revendication",
+        "Movable Property Actions"
+      ],
+      [
+        "Anglo-American Law",
+        "Civil Law"
+      ],
+      [
+        "Guardian",
+        "Incompetent"
+      ],
+      [
+        "Remainderman",
+        "Reversion"
+      ],
+      [
+        "Public Highways",
+        "State"
+      ],
+      [
+        "Anglo-American Trust",
+        "Civil Law"
+      ],
+      [
+        "Life Estate",
+        "Remainderman"
+      ],
+      [
+        "Anglo-American Trust",
+        "Waqf"
+      ],
+      [
+        "Equity Courts",
+        "Mortgage"
+      ],
+      [
+        "Riparian Right",
+        "United States"
+      ],
+      [
+        "Life Estate",
+        "Remainder"
+      ],
+      [
+        "Possessory Actions",
+        "Trespass"
+      ],
+      [
+        "Corporations",
+        "Fictitious Legal Persons"
+      ],
+      [
+        "Environmental Law",
+        "Regulatory Law"
+      ],
+      [
+        "Property Law",
+        "Western Legal Systems"
+      ],
+      [
+        "Robbery",
+        "Theft"
+      ],
+      [
+        "Civil-Law Systems",
+        "French Law"
+      ],
+      [
+        "Chattel Mortgage",
+        "Debtor"
+      ],
+      [
+        "Joint Tenancy",
+        "Marital Property Regimes"
+      ],
+      [
+        "Copyright",
+        "Patent"
+      ],
+      [
+        "American Legal System",
+        "Roman Law"
+      ],
+      [
+        "Debtor",
+        "Third Parties"
+      ],
+      [
+        "Settlor",
+        "Trustee"
+      ],
+      [
+        "Deteriorated Housing Conditions",
+        "Urban Housing"
+      ],
+      [
+        "Beneficiary",
+        "Trustee"
+      ],
+      [
+        "Civil Law",
+        "Fideicommissary Substitutions"
+      ],
+      [
+        "Creditor",
+        "Pledge"
+      ],
+      [
+        "Civil Law",
+        "Immovable Property"
+      ],
+      [
+        "Eminent Domain",
+        "Ownership Types"
+      ],
+      [
+        "German Law",
+        "Roman Law"
+      ],
+      [
+        "English Common Law",
+        "Tenancy by the Entirety"
+      ],
+      [
+        "Possessory Interests",
+        "Property Law"
+      ],
+      [
+        "Fee Simple",
+        "Fee Simple Determinable"
+      ],
+      [
+        "Civil-Law Tradition",
+        "Triad of Ownership"
+      ],
+      [
+        "Air",
+        "State"
+      ],
+      [
+        "Joint Tenancy",
+        "Tenancy in Common"
+      ],
+      [
+        "Marital Owners",
+        "Ownership Types"
+      ],
+      [
+        "State",
+        "Wild Animals"
+      ],
+      [
+        "Gold",
+        "Silver"
+      ],
+      [
+        "Territorial Waters",
+        "United States"
+      ],
+      [
+        "Anglo-American Property Law",
+        "Movable Property"
+      ],
+      [
+        "Eminent Domain",
+        "State"
+      ],
+      [
+        "Fee Simple",
+        "Fee Simple Subject to a Condition Subsequent"
+      ],
+      [
+        "Residential Tenancies",
+        "United States"
+      ],
+      [
+        "Civil-Law Jurisdictions",
+        "Marital Property"
+      ],
+      [
+        "Contingencies",
+        "George"
+      ],
+      [
+        "Curtesy",
+        "Remainderman"
+      ],
+      [
+        "United States",
+        "Water"
+      ],
+      [
+        "State",
+        "Water"
+      ],
+      [
+        "Landlord-Tenant Relationships",
+        "Legislators"
+      ],
+      [
+        "Landlord-Tenant Relationship",
+        "Tenancy"
+      ],
+      [
+        "Adverse Possession",
+        "Statute of Limitations"
+      ],
+      [
+        "Anglo-American Systems",
+        "Statutory Possessory Action"
+      ],
+      [
+        "Common-Law Dower",
+        "Remainderman"
+      ],
+      [
+        "Beneficiary",
+        "Spendthrift Trust"
+      ],
+      [
+        "Injunction",
+        "Statutory Possessory Action"
+      ],
+      [
+        "Property-as-Commodity",
+        "Property-as-Propriety"
+      ],
+      [
+        "Public Parks",
+        "State"
+      ],
+      [
+        "Government Grants",
+        "Landlord-Tenant Law"
+      ],
+      [
+        "Anglo-American Property Law",
+        "Immovable Property"
+      ],
+      [
+        "Anglo-American Law",
+        "United States"
+      ],
+      [
+        "Land",
+        "Water"
+      ],
+      [
+        "Edith",
+        "George"
+      ],
+      [
+        "Administrative Procedure",
+        "Regulatory Law"
+      ],
+      [
+        "Property Law",
+        "Zoning and Planning"
+      ],
+      [
+        "Public Regulation of Land Use",
+        "Vertical Divisions of Ownership"
+      ],
+      [
+        "Anglo-American Criminal Codes",
+        "Civil Law Criminal Codes"
+      ],
+      [
+        "Creditor",
+        "Debtor"
+      ],
+      [
+        "Ejectment Action",
+        "Quiet-Title Action"
+      ],
+      [
+        "Community Property",
+        "Separate Property"
+      ],
+      [
+        "Gold",
+        "Lead"
+      ],
+      [
+        "Cuius Est Solum Eius Est Usque Ad Coelum Et Usque Ad Inferos",
+        "Vertical Divisions of Ownership"
+      ],
+      [
+        "Civil Law",
+        "Usufruct"
+      ],
+      [
+        "Marital Property",
+        "Separate Property"
+      ],
+      [
+        "Burglary",
+        "Theft"
+      ],
+      [
+        "Condominium Ownership",
+        "Cooperative Ownership"
+      ],
+      [
+        "20th Century",
+        "21st Century"
+      ],
+      [
+        "Adverse Possession",
+        "Anglo-American Law"
+      ],
+      [
+        "Anglo-American Law",
+        "Temporal Divisions"
+      ]
+    ],
+    "count": 96,
+    "create_time": 1774836186,
+    "update_time": 1774836186,
+    "_id": "doc-d478687602ee841ad180b1ac8189c15d"
+  },
+  "doc-ca60735a3b5ef161c1f2f036621d3637": {
+    "relation_pairs": [
+      [
+        "Human Insulin",
+        "Insulin Therapies"
+      ],
+      [
+        "Beef Insulin",
+        "Human Insulin"
+      ],
+      [
+        "Beta Cell Transplantation",
+        "Insulin Therapies"
+      ],
+      [
+        "Rosiglitazone",
+        "Thiazolidinediones"
+      ],
+      [
+        "Edema",
+        "Thiazolidinediones"
+      ],
+      [
+        "Diabetes",
+        "Exenatide"
+      ],
+      [
+        "Hypoglycemia",
+        "Sulfonylureas"
+      ],
+      [
+        "Human Insulin",
+        "Pork Insulin"
+      ],
+      [
+        "Lactic Acid",
+        "Metformin"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Glucometer"
+      ],
+      [
+        "Diabetes",
+        "Sitagliptin"
+      ],
+      [
+        "Pioglitazone",
+        "Thiazolidinediones"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Pancreas Transplantation"
+      ],
+      [
+        "Insulin Therapies",
+        "Sulfonylureas"
+      ],
+      [
+        "Diabetes",
+        "Semaglutide"
+      ],
+      [
+        "Insulin Pump",
+        "Insulin Therapies"
+      ],
+      [
+        "Diabetes Mellitus",
+        "Insulin Therapies"
+      ],
+      [
+        "Diabetes",
+        "Pramlintide"
+      ],
+      [
+        "Biguanides",
+        "Metformin"
+      ]
+    ],
+    "count": 19,
+    "create_time": 1774838950,
+    "update_time": 1774838950,
+    "_id": "doc-ca60735a3b5ef161c1f2f036621d3637"
+  }
+}

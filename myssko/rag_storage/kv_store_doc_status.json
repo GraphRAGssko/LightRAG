@@ -1,0 +1,66 @@
+{
+  "doc-cc590270453f4159aa7d88357bff1dc3": {
+    "status": "processed",
+    "chunks_count": 3,
+    "chunks_list": [
+      "chunk-10e57cd1e078760fff38d084350f5e77",
+      "chunk-dfa85355242315f033b4bb60edaa01d2",
+      "chunk-a1b4523d0ab404d11474869db22319af"
+    ],
+    "content_summary": "Wars of the Roses\n\nAsk the Chatbot Games & Quizzes History & Society Science & Tech Biographies Animals & Nature Geography & Travel Arts & Culture ProCon Money Videos Object.assign( window.Mendel.config, { \"infiniteScrollList\": [{\"p\":3,\"t\":509963},{\"...",
+    "content_length": 10614,
+    "created_at": "2026-03-30T01:37:26.645174+00:00",
+    "updated_at": "2026-03-30T01:37:56.443843+00:00",
+    "file_path": "wars_of_the_roses.txt",
+    "track_id": "upload_20260330_103726_75d5c92c",
+    "metadata": {
+      "processing_start_time": 1774834646,
+      "processing_end_time": 1774834676
+    }
+  },
+  "doc-d478687602ee841ad180b1ac8189c15d": {
+    "status": "processed",
+    "chunks_count": 11,
+    "chunks_list": [
+      "chunk-59d4d49bb556e54eabfebc535ba344b2",
+      "chunk-4571328bad55741ff2b9b83c0811de82",
+      "chunk-d897550811fb362b11f30d05a77830b8",
+      "chunk-c28deeed300429d7c272441fee592c5f",
+      "chunk-a88135481e4f734cf0010325351f4349",
+      "chunk-8693f4b56d6befe03f991557d9ba5f11",
+      "chunk-15e6a315e9822d898cf2d6d3debf0ac8",
+      "chunk-2a7caf9193074699e0691d3250604eeb",
+      "chunk-f30cc379bb0d23d68692c29ef88ef5de",
+      "chunk-9acb02c81b27ae4d1eb0770b5778950e",
+      "chunk-3db55e3cfb6d996646a6223672321b54"
+    ],
+    "content_summary": "Property Law - Objects, subjects, and types of possessory interests in property\n\nAsk the Chatbot Games & Quizzes History & Society Science & Tech Biographies Animals & Nature Geography & Travel Arts & Culture ProCon Money Videos Object.assign( window...",
+    "content_length": 61675,
+    "created_at": "2026-03-30T02:01:14.709602+00:00",
+    "updated_at": "2026-03-30T02:03:06.222847+00:00",
+    "file_path": "property_law.txt",
+    "track_id": "upload_20260330_110114_ad7abc34",
+    "metadata": {
+      "processing_start_time": 1774836074,
+      "processing_end_time": 1774836186
+    }
+  },
+  "doc-ca60735a3b5ef161c1f2f036621d3637": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-1d4db05eeb2c79e26d860c7775f19359",
+      "chunk-13061af8ceaf1fb5f240b0dc1225d36f"
+    ],
+    "content_summary": "Diabetes Mellitus - Insulin therapies\n\nAsk the Chatbot Games & Quizzes History & Society Science & Tech Biographies Animals & Nature Geography & Travel Arts & Culture ProCon Money Videos Object.assign( window.Mendel.config, { \"infiniteScrollList\": [{...",
+    "content_length": 7850,
+    "created_at": "2026-03-30T02:48:34.335834+00:00",
+    "updated_at": "2026-03-30T02:49:10.554341+00:00",
+    "file_path": "diabetes_insulin_therapies.txt",
+    "track_id": "upload_20260330_114834_792f78fb",
+    "metadata": {
+      "processing_start_time": 1774838914,
+      "processing_end_time": 1774838950
+    }
+  }
+}

@@ -1,0 +1,1223 @@
+{
+  "House of Lancaster<SEP>Wars of the Roses": {
+    "chunk_ids": [
+      "chunk-dfa85355242315f033b4bb60edaa01d2",
+      "chunk-10e57cd1e078760fff38d084350f5e77"
+    ],
+    "count": 2,
+    "create_time": 1774834674,
+    "update_time": 1774834674,
+    "_id": "House of Lancaster<SEP>Wars of the Roses"
+  },
+  "Henry VI<SEP>Margaret of Anjou": {
+    "chunk_ids": [
+      "chunk-dfa85355242315f033b4bb60edaa01d2",
+      "chunk-10e57cd1e078760fff38d084350f5e77"
+    ],
+    "count": 2,
+    "create_time": 1774834674,
+    "update_time": 1774834674,
+    "_id": "Henry VI<SEP>Margaret of Anjou"
+  },
+  "Edward IV<SEP>Henry VII": {
+    "chunk_ids": [
+      "chunk-dfa85355242315f033b4bb60edaa01d2"
+    ],
+    "count": 1,
+    "create_time": 1774834674,
+    "update_time": 1774834674,
+    "_id": "Edward IV<SEP>Henry VII"
+  },
+  "Richard Neville, Earl of Warwick<SEP>Richard, Duke of York": {
+    "chunk_ids": [
+      "chunk-dfa85355242315f033b4bb60edaa01d2"
+    ],
+    "count": 1,
+    "create_time": 1774834674,
+    "update_time": 1774834674,
+    "_id": "Richard Neville, Earl of Warwick<SEP>Richard, Duke of York"
+  },
+  "House of York<SEP>Wars of the Roses": {
+    "chunk_ids": [
+      "chunk-dfa85355242315f033b4bb60edaa01d2",
+      "chunk-10e57cd1e078760fff38d084350f5e77"
+    ],
+    "count": 2,
+    "create_time": 1774834674,
+    "update_time": 1774834674,
+    "_id": "House of York<SEP>Wars of the Roses"
+  },
+  "Battle of Bosworth Field<SEP>Henry Tudor": {
+    "chunk_ids": [
+      "chunk-10e57cd1e078760fff38d084350f5e77"
+    ],
+    "count": 1,
+    "create_time": 1774834674,
+    "update_time": 1774834674,
+    "_id": "Battle of Bosworth Field<SEP>Henry Tudor"
+  },
+  "Edward III<SEP>House of Lancaster": {
+    "chunk_ids": [
+      "chunk-10e57cd1e078760fff38d084350f5e77"
+    ],
+    "count": 1,
+    "create_time": 1774834674,
+    "update_time": 1774834674,
+    "_id": "Edward III<SEP>House of Lancaster"
+  },
+  "London<SEP>National Portrait Gallery": {
+    "chunk_ids": [
+      "chunk-a1b4523d0ab404d11474869db22319af"
+    ],
+    "count": 1,
+    "create_time": 1774834674,
+    "update_time": 1774834674,
+    "_id": "London<SEP>National Portrait Gallery"
+  },
+  "Richard, Duke of York<SEP>Wars of the Roses": {
+    "chunk_ids": [
+      "chunk-10e57cd1e078760fff38d084350f5e77"
+    ],
+    "count": 1,
+    "create_time": 1774834674,
+    "update_time": 1774834674,
+    "_id": "Richard, Duke of York<SEP>Wars of the Roses"
+  },
+  "Edward III<SEP>House of York": {
+    "chunk_ids": [
+      "chunk-10e57cd1e078760fff38d084350f5e77"
+    ],
+    "count": 1,
+    "create_time": 1774834674,
+    "update_time": 1774834674,
+    "_id": "Edward III<SEP>House of York"
+  },
+  "Edward<SEP>King Edward IV": {
+    "chunk_ids": [
+      "chunk-a1b4523d0ab404d11474869db22319af"
+    ],
+    "count": 1,
+    "create_time": 1774834674,
+    "update_time": 1774834674,
+    "_id": "Edward<SEP>King Edward IV"
+  },
+  "Lancastrians<SEP>York": {
+    "chunk_ids": [
+      "chunk-a1b4523d0ab404d11474869db22319af"
+    ],
+    "count": 1,
+    "create_time": 1774834674,
+    "update_time": 1774834674,
+    "_id": "Lancastrians<SEP>York"
+  },
+  "Henry VI<SEP>Richard, Duke of York": {
+    "chunk_ids": [
+      "chunk-dfa85355242315f033b4bb60edaa01d2"
+    ],
+    "count": 1,
+    "create_time": 1774834675,
+    "update_time": 1774834675,
+    "_id": "Henry VI<SEP>Richard, Duke of York"
+  },
+  "Warwick<SEP>York": {
+    "chunk_ids": [
+      "chunk-a1b4523d0ab404d11474869db22319af"
+    ],
+    "count": 1,
+    "create_time": 1774834675,
+    "update_time": 1774834675,
+    "_id": "Warwick<SEP>York"
+  },
+  "Henry<SEP>Margaret": {
+    "chunk_ids": [
+      "chunk-a1b4523d0ab404d11474869db22319af"
+    ],
+    "count": 1,
+    "create_time": 1774834675,
+    "update_time": 1774834675,
+    "_id": "Henry<SEP>Margaret"
+  },
+  "Henry VI<SEP>House of Lancaster": {
+    "chunk_ids": [
+      "chunk-dfa85355242315f033b4bb60edaa01d2"
+    ],
+    "count": 1,
+    "create_time": 1774834675,
+    "update_time": 1774834675,
+    "_id": "Henry VI<SEP>House of Lancaster"
+  },
+  "Edward<SEP>Margaret": {
+    "chunk_ids": [
+      "chunk-a1b4523d0ab404d11474869db22319af"
+    ],
+    "count": 1,
+    "create_time": 1774834675,
+    "update_time": 1774834675,
+    "_id": "Edward<SEP>Margaret"
+  },
+  "Edward<SEP>Second Battle of St. Albans": {
+    "chunk_ids": [
+      "chunk-a1b4523d0ab404d11474869db22319af"
+    ],
+    "count": 1,
+    "create_time": 1774834675,
+    "update_time": 1774834675,
+    "_id": "Edward<SEP>Second Battle of St. Albans"
+  },
+  "Edward<SEP>Towton": {
+    "chunk_ids": [
+      "chunk-a1b4523d0ab404d11474869db22319af"
+    ],
+    "count": 1,
+    "create_time": 1774834676,
+    "update_time": 1774834676,
+    "_id": "Edward<SEP>Towton"
+  },
+  "Duke of York<SEP>Edward": {
+    "chunk_ids": [
+      "chunk-a1b4523d0ab404d11474869db22319af"
+    ],
+    "count": 1,
+    "create_time": 1774834676,
+    "update_time": 1774834676,
+    "_id": "Duke of York<SEP>Edward"
+  },
+  "Property Law<SEP>Western Legal Systems": {
+    "chunk_ids": [
+      "chunk-59d4d49bb556e54eabfebc535ba344b2"
+    ],
+    "count": 1,
+    "create_time": 1774836181,
+    "update_time": 1774836181,
+    "_id": "Property Law<SEP>Western Legal Systems"
+  },
+  "Anglo-American Law<SEP>Civil Law": {
+    "chunk_ids": [
+      "chunk-59d4d49bb556e54eabfebc535ba344b2",
+      "chunk-8693f4b56d6befe03f991557d9ba5f11",
+      "chunk-4571328bad55741ff2b9b83c0811de82"
+    ],
+    "count": 3,
+    "create_time": 1774836181,
+    "update_time": 1774836181,
+    "_id": "Anglo-American Law<SEP>Civil Law"
+  },
+  "Land<SEP>Water": {
+    "chunk_ids": [
+      "chunk-59d4d49bb556e54eabfebc535ba344b2"
+    ],
+    "count": 1,
+    "create_time": 1774836181,
+    "update_time": 1774836181,
+    "_id": "Land<SEP>Water"
+  },
+  "Eminent Domain<SEP>Ownership Types": {
+    "chunk_ids": [
+      "chunk-59d4d49bb556e54eabfebc535ba344b2"
+    ],
+    "count": 1,
+    "create_time": 1774836181,
+    "update_time": 1774836181,
+    "_id": "Eminent Domain<SEP>Ownership Types"
+  },
+  "Marital Owners<SEP>Ownership Types": {
+    "chunk_ids": [
+      "chunk-59d4d49bb556e54eabfebc535ba344b2"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Marital Owners<SEP>Ownership Types"
+  },
+  "House Occupant<SEP>Owner of the House": {
+    "chunk_ids": [
+      "chunk-8693f4b56d6befe03f991557d9ba5f11"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "House Occupant<SEP>Owner of the House"
+  },
+  "Possessory Interests<SEP>Property Law": {
+    "chunk_ids": [
+      "chunk-59d4d49bb556e54eabfebc535ba344b2"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Possessory Interests<SEP>Property Law"
+  },
+  "Anglo-American Law<SEP>United States": {
+    "chunk_ids": [
+      "chunk-59d4d49bb556e54eabfebc535ba344b2"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Anglo-American Law<SEP>United States"
+  },
+  "Property Law<SEP>Trusts": {
+    "chunk_ids": [
+      "chunk-59d4d49bb556e54eabfebc535ba344b2"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Property Law<SEP>Trusts"
+  },
+  "Civil Law<SEP>Prescription": {
+    "chunk_ids": [
+      "chunk-8693f4b56d6befe03f991557d9ba5f11"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Civil Law<SEP>Prescription"
+  },
+  "Owner of the House<SEP>Peaceable Possessor": {
+    "chunk_ids": [
+      "chunk-8693f4b56d6befe03f991557d9ba5f11"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Owner of the House<SEP>Peaceable Possessor"
+  },
+  "Adverse Possession<SEP>Anglo-American Law": {
+    "chunk_ids": [
+      "chunk-8693f4b56d6befe03f991557d9ba5f11"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Adverse Possession<SEP>Anglo-American Law"
+  },
+  "Public Regulation of Land Use<SEP>Vertical Divisions of Ownership": {
+    "chunk_ids": [
+      "chunk-8693f4b56d6befe03f991557d9ba5f11"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Public Regulation of Land Use<SEP>Vertical Divisions of Ownership"
+  },
+  "Property Law<SEP>Zoning and Planning": {
+    "chunk_ids": [
+      "chunk-59d4d49bb556e54eabfebc535ba344b2"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Property Law<SEP>Zoning and Planning"
+  },
+  "Condominium Ownership<SEP>Cooperative Ownership": {
+    "chunk_ids": [
+      "chunk-8693f4b56d6befe03f991557d9ba5f11"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Condominium Ownership<SEP>Cooperative Ownership"
+  },
+  "Adverse Possession<SEP>Statute of Limitations": {
+    "chunk_ids": [
+      "chunk-8693f4b56d6befe03f991557d9ba5f11"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Adverse Possession<SEP>Statute of Limitations"
+  },
+  "Life Estate<SEP>Remainderman": {
+    "chunk_ids": [
+      "chunk-8693f4b56d6befe03f991557d9ba5f11"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Life Estate<SEP>Remainderman"
+  },
+  "Cuius Est Solum Eius Est Usque Ad Coelum Et Usque Ad Inferos<SEP>Vertical Divisions of Ownership": {
+    "chunk_ids": [
+      "chunk-8693f4b56d6befe03f991557d9ba5f11"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Cuius Est Solum Eius Est Usque Ad Coelum Et Usque Ad Inferos<SEP>Vertical Divisions of Ownership"
+  },
+  "Anglo-American Law<SEP>Temporal Divisions": {
+    "chunk_ids": [
+      "chunk-8693f4b56d6befe03f991557d9ba5f11"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Anglo-American Law<SEP>Temporal Divisions"
+  },
+  "Remainderman<SEP>Reversion": {
+    "chunk_ids": [
+      "chunk-8693f4b56d6befe03f991557d9ba5f11"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Remainderman<SEP>Reversion"
+  },
+  "Creditor<SEP>Debtor": {
+    "chunk_ids": [
+      "chunk-9acb02c81b27ae4d1eb0770b5778950e",
+      "chunk-f30cc379bb0d23d68692c29ef88ef5de"
+    ],
+    "count": 2,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Creditor<SEP>Debtor"
+  },
+  "Burglary<SEP>Theft": {
+    "chunk_ids": [
+      "chunk-9acb02c81b27ae4d1eb0770b5778950e"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Burglary<SEP>Theft"
+  },
+  "Common-Law Dower<SEP>Remainderman": {
+    "chunk_ids": [
+      "chunk-8693f4b56d6befe03f991557d9ba5f11"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Common-Law Dower<SEP>Remainderman"
+  },
+  "Chattel Mortgage<SEP>Debtor": {
+    "chunk_ids": [
+      "chunk-9acb02c81b27ae4d1eb0770b5778950e"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Chattel Mortgage<SEP>Debtor"
+  },
+  "Creditor<SEP>Pledge": {
+    "chunk_ids": [
+      "chunk-9acb02c81b27ae4d1eb0770b5778950e"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Creditor<SEP>Pledge"
+  },
+  "Environmental Law<SEP>Regulatory Law": {
+    "chunk_ids": [
+      "chunk-9acb02c81b27ae4d1eb0770b5778950e"
+    ],
+    "count": 1,
+    "create_time": 1774836182,
+    "update_time": 1774836182,
+    "_id": "Environmental Law<SEP>Regulatory Law"
+  },
+  "Curtesy<SEP>Remainderman": {
+    "chunk_ids": [
+      "chunk-8693f4b56d6befe03f991557d9ba5f11"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Curtesy<SEP>Remainderman"
+  },
+  "Anglo-American Criminal Codes<SEP>Civil Law Criminal Codes": {
+    "chunk_ids": [
+      "chunk-9acb02c81b27ae4d1eb0770b5778950e"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Anglo-American Criminal Codes<SEP>Civil Law Criminal Codes"
+  },
+  "Administrative Procedure<SEP>Regulatory Law": {
+    "chunk_ids": [
+      "chunk-9acb02c81b27ae4d1eb0770b5778950e"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Administrative Procedure<SEP>Regulatory Law"
+  },
+  "Community Property<SEP>Marital Property": {
+    "chunk_ids": [
+      "chunk-a88135481e4f734cf0010325351f4349"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Community Property<SEP>Marital Property"
+  },
+  "Robbery<SEP>Theft": {
+    "chunk_ids": [
+      "chunk-9acb02c81b27ae4d1eb0770b5778950e"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Robbery<SEP>Theft"
+  },
+  "Public Highways<SEP>State": {
+    "chunk_ids": [
+      "chunk-a88135481e4f734cf0010325351f4349"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Public Highways<SEP>State"
+  },
+  "Marital Property<SEP>Separate Property": {
+    "chunk_ids": [
+      "chunk-a88135481e4f734cf0010325351f4349"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Marital Property<SEP>Separate Property"
+  },
+  "Public Parks<SEP>State": {
+    "chunk_ids": [
+      "chunk-a88135481e4f734cf0010325351f4349"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Public Parks<SEP>State"
+  },
+  "Common-Law Property Jurisdictions<SEP>Marital Property": {
+    "chunk_ids": [
+      "chunk-a88135481e4f734cf0010325351f4349"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Common-Law Property Jurisdictions<SEP>Marital Property"
+  },
+  "Corporations<SEP>Fictitious Legal Persons": {
+    "chunk_ids": [
+      "chunk-a88135481e4f734cf0010325351f4349"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Corporations<SEP>Fictitious Legal Persons"
+  },
+  "Civil-Law Jurisdictions<SEP>Marital Property": {
+    "chunk_ids": [
+      "chunk-a88135481e4f734cf0010325351f4349"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Civil-Law Jurisdictions<SEP>Marital Property"
+  },
+  "Civil-Law Tradition<SEP>Triad of Ownership": {
+    "chunk_ids": [
+      "chunk-a88135481e4f734cf0010325351f4349"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Civil-Law Tradition<SEP>Triad of Ownership"
+  },
+  "State<SEP>Water": {
+    "chunk_ids": [
+      "chunk-a88135481e4f734cf0010325351f4349"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "State<SEP>Water"
+  },
+  "American Legal System<SEP>Civil-Law Systems": {
+    "chunk_ids": [
+      "chunk-3db55e3cfb6d996646a6223672321b54"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "American Legal System<SEP>Civil-Law Systems"
+  },
+  "Ejectment Action<SEP>Quiet-Title Action": {
+    "chunk_ids": [
+      "chunk-3db55e3cfb6d996646a6223672321b54"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Ejectment Action<SEP>Quiet-Title Action"
+  },
+  "Air<SEP>State": {
+    "chunk_ids": [
+      "chunk-a88135481e4f734cf0010325351f4349"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Air<SEP>State"
+  },
+  "Possessory Actions<SEP>Trespass": {
+    "chunk_ids": [
+      "chunk-3db55e3cfb6d996646a6223672321b54"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "Possessory Actions<SEP>Trespass"
+  },
+  "American Legal System<SEP>Roman Law": {
+    "chunk_ids": [
+      "chunk-3db55e3cfb6d996646a6223672321b54"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "American Legal System<SEP>Roman Law"
+  },
+  "French Revendication<SEP>Movable Property Actions": {
+    "chunk_ids": [
+      "chunk-3db55e3cfb6d996646a6223672321b54"
+    ],
+    "count": 1,
+    "create_time": 1774836183,
+    "update_time": 1774836183,
+    "_id": "French Revendication<SEP>Movable Property Actions"
+  },
+  "Anglo-American Systems<SEP>Statutory Possessory Action": {
+    "chunk_ids": [
+      "chunk-3db55e3cfb6d996646a6223672321b54"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Anglo-American Systems<SEP>Statutory Possessory Action"
+  },
+  "State<SEP>Wild Animals": {
+    "chunk_ids": [
+      "chunk-a88135481e4f734cf0010325351f4349"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "State<SEP>Wild Animals"
+  },
+  "German Law<SEP>Roman Law": {
+    "chunk_ids": [
+      "chunk-3db55e3cfb6d996646a6223672321b54"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "German Law<SEP>Roman Law"
+  },
+  "Anglo-American Trust<SEP>Civil Law": {
+    "chunk_ids": [
+      "chunk-f30cc379bb0d23d68692c29ef88ef5de"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Anglo-American Trust<SEP>Civil Law"
+  },
+  "Injunction<SEP>Statutory Possessory Action": {
+    "chunk_ids": [
+      "chunk-3db55e3cfb6d996646a6223672321b54"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Injunction<SEP>Statutory Possessory Action"
+  },
+  "Charitable Trust<SEP>Civil Law Foundation": {
+    "chunk_ids": [
+      "chunk-f30cc379bb0d23d68692c29ef88ef5de"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Charitable Trust<SEP>Civil Law Foundation"
+  },
+  "Mortgage<SEP>Secured Transaction": {
+    "chunk_ids": [
+      "chunk-f30cc379bb0d23d68692c29ef88ef5de"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Mortgage<SEP>Secured Transaction"
+  },
+  "Anglo-American Trust<SEP>Waqf": {
+    "chunk_ids": [
+      "chunk-f30cc379bb0d23d68692c29ef88ef5de"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Anglo-American Trust<SEP>Waqf"
+  },
+  "Eminent Domain<SEP>State": {
+    "chunk_ids": [
+      "chunk-a88135481e4f734cf0010325351f4349"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Eminent Domain<SEP>State"
+  },
+  "Debtor<SEP>Third Parties": {
+    "chunk_ids": [
+      "chunk-f30cc379bb0d23d68692c29ef88ef5de"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Debtor<SEP>Third Parties"
+  },
+  "Forcible Entry and Detainer<SEP>Statutory Possessory Action": {
+    "chunk_ids": [
+      "chunk-3db55e3cfb6d996646a6223672321b54"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Forcible Entry and Detainer<SEP>Statutory Possessory Action"
+  },
+  "Edith<SEP>George": {
+    "chunk_ids": [
+      "chunk-15e6a315e9822d898cf2d6d3debf0ac8"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Edith<SEP>George"
+  },
+  "Equity Courts<SEP>Mortgage": {
+    "chunk_ids": [
+      "chunk-f30cc379bb0d23d68692c29ef88ef5de"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Equity Courts<SEP>Mortgage"
+  },
+  "Life Estate<SEP>Remainder": {
+    "chunk_ids": [
+      "chunk-15e6a315e9822d898cf2d6d3debf0ac8"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Life Estate<SEP>Remainder"
+  },
+  "Creditor<SEP>Third Parties": {
+    "chunk_ids": [
+      "chunk-f30cc379bb0d23d68692c29ef88ef5de"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Creditor<SEP>Third Parties"
+  },
+  "Civil Law<SEP>Usufruct": {
+    "chunk_ids": [
+      "chunk-15e6a315e9822d898cf2d6d3debf0ac8"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Civil Law<SEP>Usufruct"
+  },
+  "Landlord-Tenant Relationship<SEP>Tenancy": {
+    "chunk_ids": [
+      "chunk-15e6a315e9822d898cf2d6d3debf0ac8"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Landlord-Tenant Relationship<SEP>Tenancy"
+  },
+  "Contingencies<SEP>George": {
+    "chunk_ids": [
+      "chunk-15e6a315e9822d898cf2d6d3debf0ac8"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Contingencies<SEP>George"
+  },
+  "Commercial Tenancies<SEP>Residential Tenancies": {
+    "chunk_ids": [
+      "chunk-15e6a315e9822d898cf2d6d3debf0ac8"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Commercial Tenancies<SEP>Residential Tenancies"
+  },
+  "Fee Simple<SEP>Fee Simple Determinable": {
+    "chunk_ids": [
+      "chunk-15e6a315e9822d898cf2d6d3debf0ac8"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Fee Simple<SEP>Fee Simple Determinable"
+  },
+  "Civil Law<SEP>Fideicommissary Substitutions": {
+    "chunk_ids": [
+      "chunk-15e6a315e9822d898cf2d6d3debf0ac8"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Civil Law<SEP>Fideicommissary Substitutions"
+  },
+  "Government Grants<SEP>Landlord-Tenant Law": {
+    "chunk_ids": [
+      "chunk-d897550811fb362b11f30d05a77830b8"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Government Grants<SEP>Landlord-Tenant Law"
+  },
+  "Anglo-American Property Law<SEP>Movable Property": {
+    "chunk_ids": [
+      "chunk-d897550811fb362b11f30d05a77830b8"
+    ],
+    "count": 1,
+    "create_time": 1774836184,
+    "update_time": 1774836184,
+    "_id": "Anglo-American Property Law<SEP>Movable Property"
+  },
+  "Fee Simple<SEP>Fee Simple Subject to a Condition Subsequent": {
+    "chunk_ids": [
+      "chunk-15e6a315e9822d898cf2d6d3debf0ac8"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Fee Simple<SEP>Fee Simple Subject to a Condition Subsequent"
+  },
+  "American Indians<SEP>Noncitizens": {
+    "chunk_ids": [
+      "chunk-d897550811fb362b11f30d05a77830b8"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "American Indians<SEP>Noncitizens"
+  },
+  "Children<SEP>Competent Adult Women": {
+    "chunk_ids": [
+      "chunk-d897550811fb362b11f30d05a77830b8"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Children<SEP>Competent Adult Women"
+  },
+  "Civil Law<SEP>Movable Property": {
+    "chunk_ids": [
+      "chunk-d897550811fb362b11f30d05a77830b8"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Civil Law<SEP>Movable Property"
+  },
+  "Anglo-American Property Law<SEP>Immovable Property": {
+    "chunk_ids": [
+      "chunk-d897550811fb362b11f30d05a77830b8"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Anglo-American Property Law<SEP>Immovable Property"
+  },
+  "Property-as-Commodity<SEP>Property-as-Propriety": {
+    "chunk_ids": [
+      "chunk-d897550811fb362b11f30d05a77830b8"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Property-as-Commodity<SEP>Property-as-Propriety"
+  },
+  "Guardian<SEP>Incompetent": {
+    "chunk_ids": [
+      "chunk-c28deeed300429d7c272441fee592c5f"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Guardian<SEP>Incompetent"
+  },
+  "Joint Tenancy<SEP>Marital Property Regimes": {
+    "chunk_ids": [
+      "chunk-c28deeed300429d7c272441fee592c5f"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Joint Tenancy<SEP>Marital Property Regimes"
+  },
+  "Civil-Law Systems<SEP>French Law": {
+    "chunk_ids": [
+      "chunk-c28deeed300429d7c272441fee592c5f"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Civil-Law Systems<SEP>French Law"
+  },
+  "Civil Law<SEP>Immovable Property": {
+    "chunk_ids": [
+      "chunk-d897550811fb362b11f30d05a77830b8"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Civil Law<SEP>Immovable Property"
+  },
+  "Property Rights<SEP>Property-as-Propriety": {
+    "chunk_ids": [
+      "chunk-d897550811fb362b11f30d05a77830b8"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Property Rights<SEP>Property-as-Propriety"
+  },
+  "English Common Law<SEP>Tenancy by the Entirety": {
+    "chunk_ids": [
+      "chunk-c28deeed300429d7c272441fee592c5f"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "English Common Law<SEP>Tenancy by the Entirety"
+  },
+  "Community Property<SEP>Separate Property": {
+    "chunk_ids": [
+      "chunk-c28deeed300429d7c272441fee592c5f"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Community Property<SEP>Separate Property"
+  },
+  "20th Century<SEP>21st Century": {
+    "chunk_ids": [
+      "chunk-c28deeed300429d7c272441fee592c5f"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "20th Century<SEP>21st Century"
+  },
+  "Joint Tenancy<SEP>Tenancy in Common": {
+    "chunk_ids": [
+      "chunk-c28deeed300429d7c272441fee592c5f"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Joint Tenancy<SEP>Tenancy in Common"
+  },
+  "Residential Tenancies<SEP>United States": {
+    "chunk_ids": [
+      "chunk-2a7caf9193074699e0691d3250604eeb"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Residential Tenancies<SEP>United States"
+  },
+  "Javins v. First Natl Realty Co.<SEP>Local Housing Code": {
+    "chunk_ids": [
+      "chunk-2a7caf9193074699e0691d3250604eeb"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Javins v. First Natl Realty Co.<SEP>Local Housing Code"
+  },
+  "Beneficiary<SEP>Trustee": {
+    "chunk_ids": [
+      "chunk-2a7caf9193074699e0691d3250604eeb"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Beneficiary<SEP>Trustee"
+  },
+  "Deteriorated Housing Conditions<SEP>Urban Housing": {
+    "chunk_ids": [
+      "chunk-2a7caf9193074699e0691d3250604eeb"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Deteriorated Housing Conditions<SEP>Urban Housing"
+  },
+  "Landlord-Tenant Relationships<SEP>Legislators": {
+    "chunk_ids": [
+      "chunk-2a7caf9193074699e0691d3250604eeb"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Landlord-Tenant Relationships<SEP>Legislators"
+  },
+  "Gold<SEP>Lead": {
+    "chunk_ids": [
+      "chunk-4571328bad55741ff2b9b83c0811de82"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Gold<SEP>Lead"
+  },
+  "Settlor<SEP>Trustee": {
+    "chunk_ids": [
+      "chunk-2a7caf9193074699e0691d3250604eeb"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Settlor<SEP>Trustee"
+  },
+  "Beneficiary<SEP>Spendthrift Trust": {
+    "chunk_ids": [
+      "chunk-2a7caf9193074699e0691d3250604eeb"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Beneficiary<SEP>Spendthrift Trust"
+  },
+  "United States<SEP>Water": {
+    "chunk_ids": [
+      "chunk-4571328bad55741ff2b9b83c0811de82"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "United States<SEP>Water"
+  },
+  "Copyright<SEP>Patent": {
+    "chunk_ids": [
+      "chunk-4571328bad55741ff2b9b83c0811de82"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Copyright<SEP>Patent"
+  },
+  "Gold<SEP>Silver": {
+    "chunk_ids": [
+      "chunk-4571328bad55741ff2b9b83c0811de82"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Gold<SEP>Silver"
+  },
+  "Riparian Right<SEP>United States": {
+    "chunk_ids": [
+      "chunk-4571328bad55741ff2b9b83c0811de82"
+    ],
+    "count": 1,
+    "create_time": 1774836185,
+    "update_time": 1774836185,
+    "_id": "Riparian Right<SEP>United States"
+  },
+  "Territorial Waters<SEP>United States": {
+    "chunk_ids": [
+      "chunk-4571328bad55741ff2b9b83c0811de82"
+    ],
+    "count": 1,
+    "create_time": 1774836186,
+    "update_time": 1774836186,
+    "_id": "Territorial Waters<SEP>United States"
+  },
+  "Hypoglycemia<SEP>Sulfonylureas": {
+    "chunk_ids": [
+      "chunk-13061af8ceaf1fb5f240b0dc1225d36f"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Hypoglycemia<SEP>Sulfonylureas"
+  },
+  "Biguanides<SEP>Metformin": {
+    "chunk_ids": [
+      "chunk-13061af8ceaf1fb5f240b0dc1225d36f"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Biguanides<SEP>Metformin"
+  },
+  "Rosiglitazone<SEP>Thiazolidinediones": {
+    "chunk_ids": [
+      "chunk-13061af8ceaf1fb5f240b0dc1225d36f"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Rosiglitazone<SEP>Thiazolidinediones"
+  },
+  "Diabetes<SEP>Pramlintide": {
+    "chunk_ids": [
+      "chunk-13061af8ceaf1fb5f240b0dc1225d36f"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Diabetes<SEP>Pramlintide"
+  },
+  "Pioglitazone<SEP>Thiazolidinediones": {
+    "chunk_ids": [
+      "chunk-13061af8ceaf1fb5f240b0dc1225d36f"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Pioglitazone<SEP>Thiazolidinediones"
+  },
+  "Lactic Acid<SEP>Metformin": {
+    "chunk_ids": [
+      "chunk-13061af8ceaf1fb5f240b0dc1225d36f"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Lactic Acid<SEP>Metformin"
+  },
+  "Diabetes Mellitus<SEP>Insulin Therapies": {
+    "chunk_ids": [
+      "chunk-1d4db05eeb2c79e26d860c7775f19359"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Diabetes Mellitus<SEP>Insulin Therapies"
+  },
+  "Diabetes<SEP>Exenatide": {
+    "chunk_ids": [
+      "chunk-13061af8ceaf1fb5f240b0dc1225d36f"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Diabetes<SEP>Exenatide"
+  },
+  "Edema<SEP>Thiazolidinediones": {
+    "chunk_ids": [
+      "chunk-13061af8ceaf1fb5f240b0dc1225d36f"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Edema<SEP>Thiazolidinediones"
+  },
+  "Diabetes<SEP>Sitagliptin": {
+    "chunk_ids": [
+      "chunk-13061af8ceaf1fb5f240b0dc1225d36f"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Diabetes<SEP>Sitagliptin"
+  },
+  "Human Insulin<SEP>Insulin Therapies": {
+    "chunk_ids": [
+      "chunk-1d4db05eeb2c79e26d860c7775f19359"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Human Insulin<SEP>Insulin Therapies"
+  },
+  "Diabetes Mellitus<SEP>Glucometer": {
+    "chunk_ids": [
+      "chunk-1d4db05eeb2c79e26d860c7775f19359"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Diabetes Mellitus<SEP>Glucometer"
+  },
+  "Diabetes<SEP>Semaglutide": {
+    "chunk_ids": [
+      "chunk-13061af8ceaf1fb5f240b0dc1225d36f"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Diabetes<SEP>Semaglutide"
+  },
+  "Insulin Therapies<SEP>Sulfonylureas": {
+    "chunk_ids": [
+      "chunk-1d4db05eeb2c79e26d860c7775f19359"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Insulin Therapies<SEP>Sulfonylureas"
+  },
+  "Beef Insulin<SEP>Human Insulin": {
+    "chunk_ids": [
+      "chunk-1d4db05eeb2c79e26d860c7775f19359"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Beef Insulin<SEP>Human Insulin"
+  },
+  "Diabetes Mellitus<SEP>Pancreas Transplantation": {
+    "chunk_ids": [
+      "chunk-1d4db05eeb2c79e26d860c7775f19359"
+    ],
+    "count": 1,
+    "create_time": 1774838949,
+    "update_time": 1774838949,
+    "_id": "Diabetes Mellitus<SEP>Pancreas Transplantation"
+  },
+  "Beta Cell Transplantation<SEP>Insulin Therapies": {
+    "chunk_ids": [
+      "chunk-1d4db05eeb2c79e26d860c7775f19359"
+    ],
+    "count": 1,
+    "create_time": 1774838950,
+    "update_time": 1774838950,
+    "_id": "Beta Cell Transplantation<SEP>Insulin Therapies"
+  },
+  "Human Insulin<SEP>Pork Insulin": {
+    "chunk_ids": [
+      "chunk-1d4db05eeb2c79e26d860c7775f19359"
+    ],
+    "count": 1,
+    "create_time": 1774838950,
+    "update_time": 1774838950,
+    "_id": "Human Insulin<SEP>Pork Insulin"
+  },
+  "Insulin Pump<SEP>Insulin Therapies": {
+    "chunk_ids": [
+      "chunk-1d4db05eeb2c79e26d860c7775f19359"
+    ],
+    "count": 1,
+    "create_time": 1774838950,
+    "update_time": 1774838950,
+    "_id": "Insulin Pump<SEP>Insulin Therapies"
+  }
+}

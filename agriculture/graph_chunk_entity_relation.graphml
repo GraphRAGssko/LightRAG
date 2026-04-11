@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Richard E. Bonne">
+  <data key="d0">Richard E. Bonne</data>
+  <data key="d1">person</data>
+  <data key="d2">Richard E. Bonne is the author of "Beekeeping: A Practical Guide," providing practical information about beekeeping.</data>
+  <data key="d3">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1775512133</data>
+  <data key="d6"></data>
+</node>
+<node id="Storey Publishing">
+  <data key="d0">Storey Publishing</data>
+  <data key="d1">organization</data>
+  <data key="d2">Storey Publishing is the publisher of "Beekeeping: A Practical Guide," focusing on practical information for personal independence.</data>
+  <data key="d3">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1775512133</data>
+  <data key="d6"></data>
+</node>
+<node id="Michelle Arabia">
+  <data key="d0">Michelle Arabia</data>
+  <data key="d1">person</data>
+  <data key="d2">Michelle Arabia is credited with the cover and text design for "Beekeeping: A Practical Guide."</data>
+  <data key="d3">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1775512133</data>
+  <data key="d6"></data>
+</node>
+<node id="Grant Heilman Photography">
+  <data key="d0">Grant Heilman Photography</data>
+  <data key="d1">organization</data>
+  <data key="d2">Grant Heilman Photography holds the copyright for the cover photographs of "Beekeeping: A Practical Guide."</data>
+  <data key="d3">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1775512133</data>
+  <data key="d6"></data>
+</node>
+<node id="Leslie Carlson">
+  <data key="d0">Leslie Carlson</data>
+  <data key="d1">person</data>
+  <data key="d2">Leslie Carlson is responsible for the text production of "Beekeeping: A Practical Guide."</data>
+  <data key="d3">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1775512133</data>
+  <data key="d6"></data>
+</node>
+<node id="Sandra Webb">
+  <data key="d0">Sandra Webb</data>
+  <data key="d1">person</data>
+  <data key="d2">Sandra Webb is an editor for "Beekeeping: A Practical Guide."</data>
+  <data key="d3">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1775512133</data>
+  <data key="d6"></data>
+</node>
+<node id="Deborah Balmuth">
+  <data key="d0">Deborah Balmuth</data>
+  <data key="d1">person</data>
+  <data key="d2">Deborah Balmuth is an editor for "Beekeeping: A Practical Guide."</data>
+  <data key="d3">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1775512133</data>
+  <data key="d6"></data>
+</node>
+<node id="Brigita Fuhrmann">
+  <data key="d0">Brigita Fuhrmann</data>
+  <data key="d1">person</data>
+  <data key="d2">Brigita Fuhrmann created the line drawings for "Beekeeping: A Practical Guide."</data>
+  <data key="d3">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1775512133</data>
+  <data key="d6"></data>
+</node>
+<node id="Northwind Editorial Services">
+  <data key="d0">Northwind Editorial Services</data>
+  <data key="d1">organization</data>
+  <data key="d2">Northwind Editorial Services is responsible for indexing "Beekeeping: A Practical Guide."</data>
+  <data key="d3">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1775512134</data>
+  <data key="d6"></data>
+</node>
+<node id="Beekeeping: A Practical Guide">
+  <data key="d0">Beekeeping: A Practical Guide</data>
+  <data key="d1">content</data>
+  <data key="d2">Beekeeping: A Practical Guide is a published work aimed at providing practical information about beekeeping.</data>
+  <data key="d3">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1775512134</data>
+  <data key="d6"></data>
+</node>
+<edge source="Richard E. Bonne" target="Beekeeping: A Practical Guide">
+  <data key="d7">1.0</data>
+  <data key="d8">Richard E. Bonne is the author of the content "Beekeeping: A Practical Guide."</data>
+  <data key="d9">author,publication</data>
+  <data key="d10">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1775512134</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Storey Publishing" target="Beekeeping: A Practical Guide">
+  <data key="d7">1.0</data>
+  <data key="d8">Storey Publishing published "Beekeeping: A Practical Guide."</data>
+  <data key="d9">publication,publisher</data>
+  <data key="d10">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1775512134</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Michelle Arabia" target="Beekeeping: A Practical Guide">
+  <data key="d7">1.0</data>
+  <data key="d8">Michelle Arabia designed the cover and text for "Beekeeping: A Practical Guide."</data>
+  <data key="d9">cover design,publication</data>
+  <data key="d10">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1775512134</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Grant Heilman Photography" target="Beekeeping: A Practical Guide">
+  <data key="d7">1.0</data>
+  <data key="d8">Grant Heilman Photography holds the copyright for the cover photographs in "Beekeeping: A Practical Guide."</data>
+  <data key="d9">copyright,publication</data>
+  <data key="d10">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1775512134</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Leslie Carlson" target="Beekeeping: A Practical Guide">
+  <data key="d7">1.0</data>
+  <data key="d8">Leslie Carlson produced the text for "Beekeeping: A Practical Guide."</data>
+  <data key="d9">publication,text production</data>
+  <data key="d10">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1775512135</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Sandra Webb" target="Beekeeping: A Practical Guide">
+  <data key="d7">1.0</data>
+  <data key="d8">Sandra Webb edited "Beekeeping: A Practical Guide."</data>
+  <data key="d9">editing,publication</data>
+  <data key="d10">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1775512135</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Deborah Balmuth" target="Beekeeping: A Practical Guide">
+  <data key="d7">1.0</data>
+  <data key="d8">Deborah Balmuth edited "Beekeeping: A Practical Guide."</data>
+  <data key="d9">editing,publication</data>
+  <data key="d10">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1775512135</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Brigita Fuhrmann" target="Beekeeping: A Practical Guide">
+  <data key="d7">1.0</data>
+  <data key="d8">Brigita Fuhrmann created line drawings for "Beekeeping: A Practical Guide."</data>
+  <data key="d9">illustrations,publication</data>
+  <data key="d10">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1775512135</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Northwind Editorial Services" target="Beekeeping: A Practical Guide">
+  <data key="d7">1.0</data>
+  <data key="d8">Northwind Editorial Services indexed "Beekeeping: A Practical Guide."</data>
+  <data key="d9">indexing,publication</data>
+  <data key="d10">chunk-ee78e2ce2f8410bcb56d4426629b1ace</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1775512135</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

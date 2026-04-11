@@ -1,0 +1,3049 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Wars of the Roses">
+  <data key="d0">Wars of the Roses</data>
+  <data key="d1">event</data>
+  <data key="d2">The Wars of the Roses were a series of civil wars fought for control of the English throne between the houses of Lancaster and York during the 15th century.&lt;SEP&gt;The Wars of the Roses were a series of dynastic civil wars in England fought between the houses of Lancaster and York for the English throne from 1455 to 1485.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2&lt;SEP&gt;chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834671</data>
+  <data key="d6"></data>
+</node>
+<node id="House of Lancaster">
+  <data key="d0">House of Lancaster</data>
+  <data key="d1">organization</data>
+  <data key="d2">The House of Lancaster was one of the two rival factions involved in the Wars of the Roses, represented by the red rose emblem.&lt;SEP&gt;The House of Lancaster is one of the two rival factions in the Wars of the Roses, associated with the red rose and the claim to the English throne.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2&lt;SEP&gt;chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834671</data>
+  <data key="d6"></data>
+</node>
+<node id="House of York">
+  <data key="d0">House of York</data>
+  <data key="d1">organization</data>
+  <data key="d2">The House of York was the rival faction to the House of Lancaster in the Wars of the Roses, symbolized by the white rose emblem.&lt;SEP&gt;The House of York is the rival faction to the House of Lancaster in the Wars of the Roses, identified by the white rose and also claiming the English throne.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2&lt;SEP&gt;chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834672</data>
+  <data key="d6"></data>
+</node>
+<node id="Henry VI">
+  <data key="d0">Henry VI</data>
+  <data key="d1">person</data>
+  <data key="d2">Henry VI was the King of England during the Wars of the Roses who experienced periods of madness, affecting his reign and leading to civil unrest.&lt;SEP&gt;Henry VI was the King of England during the Wars of the Roses, known for his periods of madness and being dominated by his queen, Margaret of Anjou.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2&lt;SEP&gt;chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834672</data>
+  <data key="d6"></data>
+</node>
+<node id="Margaret of Anjou">
+  <data key="d0">Margaret of Anjou</data>
+  <data key="d1">person</data>
+  <data key="d2">Margaret of Anjou was the queen consort of Henry VI and played a significant role in the politics of the Wars of the Roses, dominating Henry VI during his madness.&lt;SEP&gt;Margaret of Anjou was the queen of Henry VI, who played a significant role in the conflicts of the Wars of the Roses and led her faction against the Yorkists.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2&lt;SEP&gt;chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834672</data>
+  <data key="d6"></data>
+</node>
+<node id="Richard, Duke of York">
+  <data key="d0">Richard, Duke of York</data>
+  <data key="d1">person</data>
+  <data key="d2">Richard, Duke of York was a key figure in the Wars of the Roses who started the conflict through his claim to the throne and role as protector of the realm.&lt;SEP&gt;Richard, Duke of York was a key figure in the Wars of the Roses, serving as protector of the realm and leading the Yorkist forces.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2&lt;SEP&gt;chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834672</data>
+  <data key="d6"></data>
+</node>
+<node id="Richard III">
+  <data key="d0">Richard III</data>
+  <data key="d1">person</data>
+  <data key="d2">Richard III was the last king of the House of York, defeated by Henry Tudor at the Battle of Bosworth Field, marking the end of the Wars of the Roses.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834672</data>
+  <data key="d6"></data>
+</node>
+<node id="Edward IV">
+  <data key="d0">Edward IV</data>
+  <data key="d1">person</data>
+  <data key="d2">Edward IV was the son of Richard, Duke of York, who became king and united the claims of Lancaster and York through his marriage to Elizabeth of York.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834672</data>
+  <data key="d6"></data>
+</node>
+<node id="Lambert Simnel">
+  <data key="d0">Lambert Simnel</data>
+  <data key="d1">person</data>
+  <data key="d2">Lambert Simnel was a pretender to the English throne who represented a Yorkist rising against Henry VII.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834672</data>
+  <data key="d6"></data>
+</node>
+<node id="Battle of Bosworth Field">
+  <data key="d0">Battle of Bosworth Field</data>
+  <data key="d1">event</data>
+  <data key="d2">The Battle of Bosworth Field was the decisive conflict that ended the Wars of the Roses, where Henry Tudor defeated Richard III.&lt;SEP&gt;The Battle of Bosworth Field was the decisive battle in 1485 that ended the Wars of the Roses with the defeat of Richard III.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2&lt;SEP&gt;chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834672</data>
+  <data key="d6"></data>
+</node>
+<node id="Battle of St. Albans">
+  <data key="d0">Battle of St. Albans</data>
+  <data key="d1">event</data>
+  <data key="d2">The Battle of St. Albans, fought in 1455, was the first battle of the Wars of the Roses, resulting in a Yorkist victory.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834672</data>
+  <data key="d6"></data>
+</node>
+<node id="Second Battle of St. Albans">
+  <data key="d0">Second Battle of St. Albans</data>
+  <data key="d1">event</data>
+  <data key="d2">The Second Battle of St. Albans was a significant conflict in February 1461, where the Lancastrians defeated Warwick’s forces.&lt;SEP&gt;The Second Battle of St. Albans, fought in 1461, was a conflict during the Wars of the Roses where the Lancastrians defeated Warwick.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2&lt;SEP&gt;chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834672</data>
+  <data key="d6"></data>
+</node>
+<node id="Wakefield">
+  <data key="d0">Wakefield</data>
+  <data key="d1">location</data>
+  <data key="d2">Wakefield is a location in England where Richard, Duke of York was killed by Lancastrian forces during the Wars of the Roses.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834673</data>
+  <data key="d6"></data>
+</node>
+<node id="Henry Tudor">
+  <data key="d0">Henry Tudor</data>
+  <data key="d1">person</data>
+  <data key="d2">Henry Tudor, later known as Henry VII, was the victor of the Battle of Bosworth Field, which concluded the Wars of the Roses.&lt;SEP&gt;Henry Tudor, later known as Henry VII, was the first monarch of the House of Tudor who ended the Wars of the Roses by defeating Richard III at the Battle of Bosworth Field.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2&lt;SEP&gt;chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834673</data>
+  <data key="d6"></data>
+</node>
+<node id="Edward III">
+  <data key="d0">Edward III</data>
+  <data key="d1">person</data>
+  <data key="d2">Edward III was the King of England whose lineage provided claims to the throne for both the House of Lancaster and the House of York during the Wars of the Roses.&lt;SEP&gt;Edward III was a King of England, the ancestor from whom both the Houses of Lancaster and York claimed their descent.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2&lt;SEP&gt;chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834673</data>
+  <data key="d6"></data>
+</node>
+<node id="Richard Neville, Earl of Warwick">
+  <data key="d0">Richard Neville, Earl of Warwick</data>
+  <data key="d1">person</data>
+  <data key="d2">Richard Neville, known as the Earl of Warwick, was a leading figure in the Wars of the Roses who supported the Yorkist claim to the throne and had significant military influence.</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834674</data>
+  <data key="d6"></data>
+</node>
+<node id="National Portrait Gallery">
+  <data key="d0">National Portrait Gallery</data>
+  <data key="d1">organization</data>
+  <data key="d2">The National Portrait Gallery is an art museum in London known for its collection of portraits, including one of King Edward IV by an unknown artist.</data>
+  <data key="d3">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834674</data>
+  <data key="d6"></data>
+</node>
+<node id="London">
+  <data key="d0">London</data>
+  <data key="d1">location</data>
+  <data key="d2">London is the capital city of England and the location of the National Portrait Gallery.</data>
+  <data key="d3">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834674</data>
+  <data key="d6"></data>
+</node>
+<node id="Lancastrians">
+  <data key="d0">Lancastrians</data>
+  <data key="d1">group</data>
+  <data key="d2">The Lancastrians were a faction in the Wars of the Roses, opposing the Yorkists and involved in battles for control of the English throne.</data>
+  <data key="d3">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834674</data>
+  <data key="d6"></data>
+</node>
+<node id="York">
+  <data key="d0">York</data>
+  <data key="d1">person</data>
+  <data key="d2">York, referred to in the context of the text, is a lineage involved in the Wars of the Roses and whose forces faced the Lancastrians.</data>
+  <data key="d3">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834674</data>
+  <data key="d6"></data>
+</node>
+<node id="Warwick">
+  <data key="d0">Warwick</data>
+  <data key="d1">person</data>
+  <data key="d2">Warwick, known as the Kingmaker, was a significant figure in the Wars of the Roses, supporting the Yorkist claim while opposing the Lancastrians.</data>
+  <data key="d3">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834674</data>
+  <data key="d6"></data>
+</node>
+<node id="Edward">
+  <data key="d0">Edward</data>
+  <data key="d1">person</data>
+  <data key="d2">Edward, York’s eldest son, became King Edward IV after military successes against the Lancastrians during the Wars of the Roses.</data>
+  <data key="d3">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834674</data>
+  <data key="d6"></data>
+</node>
+<node id="Margaret">
+  <data key="d0">Margaret</data>
+  <data key="d1">person</data>
+  <data key="d2">Margaret is a prominent figure associated with the Lancastrians, opposing Edward IV during the conflict.</data>
+  <data key="d3">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834674</data>
+  <data key="d6"></data>
+</node>
+<node id="Towton">
+  <data key="d0">Towton</data>
+  <data key="d1">location</data>
+  <data key="d2">Towton is the site of the bloodiest battle of the Wars of the Roses, where the Yorkists achieved a decisive victory.</data>
+  <data key="d3">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834674</data>
+  <data key="d6"></data>
+</node>
+<node id="Mortimers Cross">
+  <data key="d0">Mortimers Cross</data>
+  <data key="d1">event</data>
+  <data key="d2">Mortimer’s Cross was a battle fought on February 2, 1461, where Edward defeated a Lancastrian force.</data>
+  <data key="d3">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834674</data>
+  <data key="d6"></data>
+</node>
+<node id="Battle of Wakefield">
+  <data key="d0">Battle of Wakefield</data>
+  <data key="d1">event</data>
+  <data key="d2">The Battle of Wakefield occurred in December 1460, where York was surprised and killed by the Lancastrians.</data>
+  <data key="d3">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834674</data>
+  <data key="d6"></data>
+</node>
+<node id="Duke of York">
+  <data key="d0">Duke of York</data>
+  <data key="d1">person</data>
+  <data key="d2">The Duke of York, referred to in the text, is associated with York’s lineage and was proclaimed King Edward IV after military successes.</data>
+  <data key="d3">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834674</data>
+  <data key="d6"></data>
+</node>
+<node id="Henry VII">
+  <data key="d0">Henry VII</data>
+  <data key="d3">chunk-dfa85355242315f033b4bb60edaa01d2</data>
+  <data key="d2">Edward IV's daughter, Elizabeth of York, married Henry VII, uniting the claims of both houses at the end of the Wars of the Roses.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834674</data>
+  <data key="d6"></data>
+</node>
+<node id="King Edward IV">
+  <data key="d0">King Edward IV</data>
+  <data key="d3">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d2">Edward was proclaimed King Edward IV at Westminster, signifying his claim to the throne following military victories.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834674</data>
+  <data key="d6"></data>
+</node>
+<node id="Henry">
+  <data key="d0">Henry</data>
+  <data key="d3">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d2">Margaret and Henry are linked as a part of the royal family opposing Edward IV in the conflict.&lt;SEP&gt;Henry and Margaret are linked as the royal couple associated with the Lancastrians during the Wars of the Roses.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">wars_of_the_roses.txt</data>
+  <data key="d5">1774834675</data>
+  <data key="d6"></data>
+</node>
+<node id="Property Law">
+  <data key="d0">Property Law</data>
+  <data key="d1">concept</data>
+  <data key="d2">Property law encompasses the rules governing possessory interests in property, focusing on the objects and subjects of property rights.</data>
+  <data key="d3">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836177</data>
+  <data key="d6"></data>
+</node>
+<node id="Western Legal Systems">
+  <data key="d0">Western Legal Systems</data>
+  <data key="d1">concept</data>
+  <data key="d2">Western legal systems provide a framework for understanding ownership and possession of property, highlighting the relationship between objects and subjects.</data>
+  <data key="d3">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836177</data>
+  <data key="d6"></data>
+</node>
+<node id="Anglo-American Law">
+  <data key="d0">Anglo-American Law</data>
+  <data key="d1">concept</data>
+  <data key="d2">Anglo-American law refers to the legal system that combines English common law with the legal principles of the United States, emphasizing procedural protections of property interests.&lt;SEP&gt;Anglo-American Law generally recognizes multiple possessory rights in land, differing from other legal systems regarding property rights.&lt;SEP&gt;Anglo-American law permits the temporal division of the right of possession, allowing different individuals to hold rights at different times.</data>
+  <data key="d3">chunk-59d4d49bb556e54eabfebc535ba344b2&lt;SEP&gt;chunk-8693f4b56d6befe03f991557d9ba5f11&lt;SEP&gt;chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836177</data>
+  <data key="d6"></data>
+</node>
+<node id="Civil Law">
+  <data key="d0">Civil Law</data>
+  <data key="d1">concept</data>
+  <data key="d2">Civil law is a legal system based on written codes and statutes, often contrasting with common law systems like Anglo-American law in property definitions and protections.&lt;SEP&gt;Civil Law is characterized by a reluctance to recognize possessory interests in intangible goods compared to Anglo-American Law.&lt;SEP&gt;Civil law is a legal system that also recognizes distinctions between movable and immovable property, similar to Anglo-American law.&lt;SEP&gt;Civil law is a legal system based on written statutes that generally does not recognize divisions of ownership in property.&lt;SEP&gt;Civil law systems typically do not allow for the temporal division of possession rights, focusing instead on the connection between possession and ownership.&lt;SEP&gt;Civil Law refers to a legal system that does not have a direct equivalent to the Anglo-American trust arrangement.</data>
+  <data key="d3">chunk-59d4d49bb556e54eabfebc535ba344b2&lt;SEP&gt;chunk-8693f4b56d6befe03f991557d9ba5f11&lt;SEP&gt;chunk-f30cc379bb0d23d68692c29ef88ef5de&lt;SEP&gt;chunk-15e6a315e9822d898cf2d6d3debf0ac8&lt;SEP&gt;chunk-d897550811fb362b11f30d05a77830b8&lt;SEP&gt;chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836177</data>
+  <data key="d6"></data>
+</node>
+<node id="Water">
+  <data key="d0">Water</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Water is recognized as an essential resource within property law, with special regulations governing its ownership and use.&lt;SEP&gt;Water is treated differently from other types of property in the West, with significant legal implications regarding ownership and usage.&lt;SEP&gt;Water is a tangible thing that is removed from private ownership and is generally regarded as belonging to the state or community.</data>
+  <data key="d3">chunk-59d4d49bb556e54eabfebc535ba344b2&lt;SEP&gt;chunk-a88135481e4f734cf0010325351f4349&lt;SEP&gt;chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836177</data>
+  <data key="d6"></data>
+</node>
+<node id="Land">
+  <data key="d0">Land</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Land includes all terrestrial substances and supports property rights, particularly concerning ownership and use adjacent to water bodies.</data>
+  <data key="d3">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836177</data>
+  <data key="d6"></data>
+</node>
+<node id="United States">
+  <data key="d0">United States</data>
+  <data key="d1">location</data>
+  <data key="d2">The United States features a unique legal framework in property law, especially regarding the constitutional protection of property interests.&lt;SEP&gt;The United States has established a developed legal framework concerning the ownership and regulation of water resources.&lt;SEP&gt;The United States has undergone legal reforms in landlord-tenant law driven by judicial action and subsequent legislation, particularly in the 1960s and 1970s.</data>
+  <data key="d3">chunk-59d4d49bb556e54eabfebc535ba344b2&lt;SEP&gt;chunk-2a7caf9193074699e0691d3250604eeb&lt;SEP&gt;chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836177</data>
+  <data key="d6"></data>
+</node>
+<node id="Possessory Interests">
+  <data key="d0">Possessory Interests</data>
+  <data key="d1">concept</data>
+  <data key="d2">Possessory interests refer to the rights that individuals or entities have concerning the possession of property, encompassing various classifications and ownership types.</data>
+  <data key="d3">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836177</data>
+  <data key="d6"></data>
+</node>
+<node id="Eminent Domain">
+  <data key="d0">Eminent Domain</data>
+  <data key="d1">concept</data>
+  <data key="d2">Eminent domain is the legal principle that allows a government to take private property for public use, providing compensation to the owner.&lt;SEP&gt;Eminent domain is the power of the state to acquire ownership of privately owned assets, usually with compensation to the owner.</data>
+  <data key="d3">chunk-59d4d49bb556e54eabfebc535ba344b2&lt;SEP&gt;chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836177</data>
+  <data key="d6"></data>
+</node>
+<node id="Ownership Types">
+  <data key="d0">Ownership Types</data>
+  <data key="d1">concept</data>
+  <data key="d2">Ownership types categorize the various forms of property ownership, including single individuals, groups, and corporate owners.</data>
+  <data key="d3">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836177</data>
+  <data key="d6"></data>
+</node>
+<node id="Marital Owners">
+  <data key="d0">Marital Owners</data>
+  <data key="d1">concept</data>
+  <data key="d2">Marital owners refer to partners in a marriage who jointly hold property rights and interests.</data>
+  <data key="d3">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836177</data>
+  <data key="d6"></data>
+</node>
+<node id="Trusts">
+  <data key="d0">Trusts</data>
+  <data key="d1">concept</data>
+  <data key="d2">Trusts are legal arrangements where property is managed by one party for the benefit of another, involving distinct ownership rights.</data>
+  <data key="d3">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836177</data>
+  <data key="d6"></data>
+</node>
+<node id="Zoning and Planning">
+  <data key="d0">Zoning and Planning</data>
+  <data key="d1">concept</data>
+  <data key="d2">Zoning and planning refer to regulatory measures that determine land use and development, impacting property rights and ownership.</data>
+  <data key="d3">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Owner of the House">
+  <data key="d0">Owner of the House</data>
+  <data key="d1">concept</data>
+  <data key="d2">The owner of the house has legal rights over the property but may not have the right of occupancy if it is held by another person.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="House Occupant">
+  <data key="d0">House Occupant</data>
+  <data key="d1">concept</data>
+  <data key="d2">The house occupant has exclusive rights of occupancy, which may differ from the ownership rights of the house's owner.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Adverse Possession">
+  <data key="d0">Adverse Possession</data>
+  <data key="d1">concept</data>
+  <data key="d2">Adverse possession allows an individual who occupies land without the owner's permission to eventually claim ownership if certain conditions are met.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Statute of Limitations">
+  <data key="d0">Statute of Limitations</data>
+  <data key="d1">concept</data>
+  <data key="d2">The statute of limitations sets a maximum time after an event within which legal proceedings may be initiated, affecting ownership claims.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Peaceable Possessor">
+  <data key="d0">Peaceable Possessor</data>
+  <data key="d1">concept</data>
+  <data key="d2">The peaceable possessor of land has rights against all claims except those of individuals who can prove a superior right to possession.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Prescription">
+  <data key="d0">Prescription</data>
+  <data key="d1">concept</data>
+  <data key="d2">Prescription is a process in civil law where a possessor acquires title through continuous possession over a certain period.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Public Regulation of Land Use">
+  <data key="d0">Public Regulation of Land Use</data>
+  <data key="d1">concept</data>
+  <data key="d2">Public regulation refers to legal frameworks that govern land use and ownership divisions, potentially affecting property access.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Vertical Divisions of Ownership">
+  <data key="d0">Vertical Divisions of Ownership</data>
+  <data key="d1">concept</data>
+  <data key="d2">Vertical divisions in ownership refer to the ownership of different rights such as mineral rights and air rights, which can complicate property ownership.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Cuius Est Solum Eius Est Usque Ad Coelum Et Usque Ad Inferos">
+  <data key="d0">Cuius Est Solum Eius Est Usque Ad Coelum Et Usque Ad Inferos</data>
+  <data key="d1">concept</data>
+  <data key="d2">This legal maxim implies that land ownership extends vertically to the sky and down to the center of the earth, influencing ownership interpretations.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Condominium Ownership">
+  <data key="d0">Condominium Ownership</data>
+  <data key="d1">concept</data>
+  <data key="d2">Condominium ownership involves owning a section of property along with shared rights to common areas and utilities.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Cooperative Ownership">
+  <data key="d0">Cooperative Ownership</data>
+  <data key="d1">concept</data>
+  <data key="d2">Cooperative ownership allows multiple owners to share ownership interests in a single property through a corporation structure.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Life Estate">
+  <data key="d0">Life Estate</data>
+  <data key="d1">concept</data>
+  <data key="d2">Life estate is a legal term describing an interest in property that lasts for the life of a specified individual, after which the interest passes to another entity.&lt;SEP&gt;A life estate grants an individual the right to possess property for their life, with limitations on property use that may affect its value.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11&lt;SEP&gt;chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Remainderman">
+  <data key="d0">Remainderman</data>
+  <data key="d1">concept</data>
+  <data key="d2">The remainderman holds a future interest in property that begins upon the death of the life tenant, with rights to sue for waste.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Reversion">
+  <data key="d0">Reversion</data>
+  <data key="d1">concept</data>
+  <data key="d2">Reversion refers to the original owner's retained interest in property after granting a life estate to another party.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Temporal Divisions">
+  <data key="d0">Temporal Divisions</data>
+  <data key="d1">concept</data>
+  <data key="d2">Temporal divisions refer to the legal ability to separate the right of possession from ownership, allowing different individuals to have rights at different times.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Common-Law Dower">
+  <data key="d0">Common-Law Dower</data>
+  <data key="d1">concept</data>
+  <data key="d2">Common-law dower is a legal concept related to the interests of a surviving spouse in the property of the deceased.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Curtesy">
+  <data key="d0">Curtesy</data>
+  <data key="d1">concept</data>
+  <data key="d2">Curtesy is a legal right in some jurisdictions that allows a husband to benefit from the property of his deceased wife.</data>
+  <data key="d3">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="O-A Deed">
+  <data key="d0">O-A Deed</data>
+  <data key="d1">document</data>
+  <data key="d2">The O-A Deed is a legal instrument that provides protection for the party B against party A in property transactions.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Debtor">
+  <data key="d0">Debtor</data>
+  <data key="d1">person</data>
+  <data key="d2">A Debtor is an individual who owes a debt and may have property rights affected by financial obligations.&lt;SEP&gt;The Debtor is a person who has the right to possession and use of property unless they default on their obligations.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e&lt;SEP&gt;chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Creditor">
+  <data key="d0">Creditor</data>
+  <data key="d1">person</data>
+  <data key="d2">A Creditor is an individual or institution that lends money and has certain rights over the debtor's property.&lt;SEP&gt;The Creditor is a person or entity that holds a mortgage deed, claiming ownership of the property despite the debtor's rights.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e&lt;SEP&gt;chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Anglo-American System">
+  <data key="d0">Anglo-American System</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Anglo-American system refers to legal practices and principles based on common law traditions.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Civil-Law System">
+  <data key="d0">Civil-Law System</data>
+  <data key="d1">concept</data>
+  <data key="d2">The civil-law system is a legal tradition that has arrived at similar property results and practices, contrasting with the Anglo-American approach.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Chattel Mortgage">
+  <data key="d0">Chattel Mortgage</data>
+  <data key="d1">method</data>
+  <data key="d2">Chattel mortgage is a type of security interest allowing the debtor to retain possession of the property while the creditor has rights over it.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Conditional Sale">
+  <data key="d0">Conditional Sale</data>
+  <data key="d1">method</data>
+  <data key="d2">Conditional sale is an arrangement where ownership transfers upon fulfillment of certain conditions, typically payments.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Pledge">
+  <data key="d0">Pledge</data>
+  <data key="d1">method</data>
+  <data key="d2">Pledge is a security agreement where the creditor takes possession of the property, while the debtor retains the right to redeem it.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Pawn">
+  <data key="d0">Pawn</data>
+  <data key="d1">method</data>
+  <data key="d2">Pawn refers to a transaction where property is given to a creditor as collateral for a loan, with redemption rights for the debtor.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Burglary">
+  <data key="d0">Burglary</data>
+  <data key="d1">concept</data>
+  <data key="d2">Burglary is defined as larceny that involves breaking and entering premises to commit theft.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836178</data>
+  <data key="d6"></data>
+</node>
+<node id="Robbery">
+  <data key="d0">Robbery</data>
+  <data key="d1">concept</data>
+  <data key="d2">Robbery involves larceny accompanied by the use of force or threats to obtain property from another.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Embezzlement">
+  <data key="d0">Embezzlement</data>
+  <data key="d1">concept</data>
+  <data key="d2">Embezzlement is the wrongful taking of property by someone who has lawful access to it.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Environmental Law">
+  <data key="d0">Environmental Law</data>
+  <data key="d1">concept</data>
+  <data key="d2">Environmental law encompasses regulations aimed at protecting community property interests from pollution and environmental harm.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Regulatory Law">
+  <data key="d0">Regulatory Law</data>
+  <data key="d1">concept</data>
+  <data key="d2">Regulatory law is a body of laws designed to govern property use and protect it from adverse effects of regulations.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Property Rights">
+  <data key="d0">Property Rights</data>
+  <data key="d1">concept</data>
+  <data key="d2">Property rights are legal rights to own, use, and manage property, which have evolved in both Anglo-American and civil law.&lt;SEP&gt;Property rights refer to the legal entitlements individuals or entities have regarding the use and ownership of property.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e&lt;SEP&gt;chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Administrative Procedure">
+  <data key="d0">Administrative Procedure</data>
+  <data key="d1">method</data>
+  <data key="d2">Administrative procedure allows individuals to compel compliance with regulations through formal processes rather than private lawsuits.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Anglo-American Criminal Codes">
+  <data key="d0">Anglo-American Criminal Codes</data>
+  <data key="d1">concept</data>
+  <data key="d2">Anglo-American criminal codes encompass legal statutes and definitions related to theft and associated crimes within the Anglo-American legal tradition.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Civil Law Criminal Codes">
+  <data key="d0">Civil Law Criminal Codes</data>
+  <data key="d1">concept</data>
+  <data key="d2">Civil law criminal codes refer to the statutes and legal principles governing theft and related offenses in jurisdictions following civil law traditions.</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Marital Property">
+  <data key="d0">Marital Property</data>
+  <data key="d1">concept</data>
+  <data key="d2">Marital property refers to property owned by a couple that may be subject to division during divorce, including community property and separate property.</data>
+  <data key="d3">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Community Property">
+  <data key="d0">Community Property</data>
+  <data key="d1">concept</data>
+  <data key="d2">Community property refers to assets acquired by spouses during marriage, shared equally upon dissolution of the marriage or death.&lt;SEP&gt;Community property is the property accumulated during marriage, typically divided equally upon the death of one spouse or divorce.</data>
+  <data key="d3">chunk-a88135481e4f734cf0010325351f4349&lt;SEP&gt;chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Separate Property">
+  <data key="d0">Separate Property</data>
+  <data key="d1">concept</data>
+  <data key="d2">Separate property consists of property owned individually by one spouse, typically prior to marriage or received as a gift or inheritance.&lt;SEP&gt;Separate property includes assets owned before marriage or received as gifts or inheritance during marriage, which typically remains with the individual owner.</data>
+  <data key="d3">chunk-a88135481e4f734cf0010325351f4349&lt;SEP&gt;chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Common-Law Property Jurisdictions">
+  <data key="d0">Common-Law Property Jurisdictions</data>
+  <data key="d1">concept</data>
+  <data key="d2">Common-law property jurisdictions follow a legal system where property division is determined by the judge's discretion during divorce.</data>
+  <data key="d3">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Civil-Law Jurisdictions">
+  <data key="d0">Civil-Law Jurisdictions</data>
+  <data key="d1">concept</data>
+  <data key="d2">Civil-law jurisdictions are legal systems that often have specific rules regarding property rights and ownership, differing from common law.</data>
+  <data key="d3">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="State">
+  <data key="d0">State</data>
+  <data key="d1">concept</data>
+  <data key="d2">The state refers to the governing body that can withdraw certain tangible things from private ownership and may own public assets.</data>
+  <data key="d3">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Corporations">
+  <data key="d0">Corporations</data>
+  <data key="d1">organization</data>
+  <data key="d2">Corporations are fictitious legal persons created under incorporation statutes that engage in profit-making activities.</data>
+  <data key="d3">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Public Highways">
+  <data key="d0">Public Highways</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Public highways are roads owned by the state or community that are generally open for public use under certain conditions.</data>
+  <data key="d3">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Public Parks">
+  <data key="d0">Public Parks</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Public parks are recreational areas owned by the state or local government and accessible to the public.</data>
+  <data key="d3">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Air">
+  <data key="d0">Air</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Air is regarded by modern Western law as belonging to the state or the community and is not subject to private ownership.</data>
+  <data key="d3">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Wild Animals">
+  <data key="d0">Wild Animals</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Wild animals are considered to be tangible things that are typically removed from private ownership by law.</data>
+  <data key="d3">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Fictitious Legal Persons">
+  <data key="d0">Fictitious Legal Persons</data>
+  <data key="d1">concept</data>
+  <data key="d2">Fictitious legal persons are organizations such as corporations created under incorporation statutes that can engage in various activities, including profit-making.</data>
+  <data key="d3">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Triad of Ownership">
+  <data key="d0">Triad of Ownership</data>
+  <data key="d1">concept</data>
+  <data key="d2">The triad of ownership refers to the owner's rights to possess, use, and dispose of a thing, commonly referenced in civil-law traditions.</data>
+  <data key="d3">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="American Legal System">
+  <data key="d0">American Legal System</data>
+  <data key="d1">concept</data>
+  <data key="d2">The American legal system, comprising common-law and civil-law traditions, is characterized by distinct procedures for property rights and ownership actions.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Civil-Law Systems">
+  <data key="d0">Civil-Law Systems</data>
+  <data key="d1">concept</data>
+  <data key="d2">Civil-law systems encompass legal systems that differ notably in property ownership practices from common law, particularly regarding co-ownership.&lt;SEP&gt;Civil-law systems are legal frameworks that focus on codified statutes and regulations, differing from common-law in their treatment of ownership and possession actions.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54&lt;SEP&gt;chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Roman Law">
+  <data key="d0">Roman Law</data>
+  <data key="d1">concept</data>
+  <data key="d2">Roman law laid the foundational principles of legal distinction between personal actions and real property actions, influencing later legal systems.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Ejectment Action">
+  <data key="d0">Ejectment Action</data>
+  <data key="d1">method</data>
+  <data key="d2">The ejectment action is a common-law procedure used to recover possession of land by demonstrating a better right to possession than the defendant.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Quiet-Title Action">
+  <data key="d0">Quiet-Title Action</data>
+  <data key="d1">method</data>
+  <data key="d2">The quiet-title action is an equity procedure aimed at securing judicial recognition of the plaintiff's title to land against opposing claims.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Trespass">
+  <data key="d0">Trespass</data>
+  <data key="d1">concept</data>
+  <data key="d2">Trespass refers to an unlawful entry onto someone's property, traditionally resulting in personal actions for damages.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Possessory Actions">
+  <data key="d0">Possessory Actions</data>
+  <data key="d1">method</data>
+  <data key="d2">Possessory actions are legal proceedings aimed at recovering physical possession of property instead of claims of ownership.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Judicial Declaration">
+  <data key="d0">Judicial Declaration</data>
+  <data key="d1">concept</data>
+  <data key="d2">A judicial declaration is a formal judgment regarding the rights or status of parties concerning a legal matter, such as land ownership.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="Movable Property Actions">
+  <data key="d0">Movable Property Actions</data>
+  <data key="d1">concept</data>
+  <data key="d2">Movable property actions deal with ownership rights and the recovery of personal property rather than real estate.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="French Revendication">
+  <data key="d0">French Revendication</data>
+  <data key="d1">method</data>
+  <data key="d2">The French revendication is a legal action that allows an individual to recover property through a formal claim, often testing relative ownership rights.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836179</data>
+  <data key="d6"></data>
+</node>
+<node id="German Law">
+  <data key="d0">German Law</data>
+  <data key="d1">concept</data>
+  <data key="d2">German law features a co-ownership model known as Gesamthandeigentum, restricting partitioning of tenancy property among co-owners.&lt;SEP&gt;German law includes various legal actions regarding property rights, closely aligning with foundational principles from Roman law.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54&lt;SEP&gt;chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Anglo-American Systems">
+  <data key="d0">Anglo-American Systems</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Anglo-American systems refer to the legal frameworks derived from English common law and American law, particularly in relation to property ownership and actions.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Statutory Possessory Action">
+  <data key="d0">Statutory Possessory Action</data>
+  <data key="d1">method</data>
+  <data key="d2">A statutory possessory action is a legal remedy that allows previous possessors to recover property from those who lack a valid claim of right.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Injunction">
+  <data key="d0">Injunction</data>
+  <data key="d1">method</data>
+  <data key="d2">An injunction is a court order to prevent an individual from doing something that interferes with the rights of another party, often used in property disputes.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Forcible Entry and Detainer">
+  <data key="d0">Forcible Entry and Detainer</data>
+  <data key="d1">concept</data>
+  <data key="d2">Forcible entry and detainer refers to legal actions taken to regain possession of property from someone who has unlawfully retained it.</data>
+  <data key="d3">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Anglo-American Trust">
+  <data key="d0">Anglo-American Trust</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Anglo-American Trust is a legal arrangement enabling the passage of property interests across generations without probate.</data>
+  <data key="d3">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Waqf">
+  <data key="d0">Waqf</data>
+  <data key="d1">concept</data>
+  <data key="d2">Waqf is an Islamic legal institution similar to the Anglo-American trust.</data>
+  <data key="d3">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Charitable Trust">
+  <data key="d0">Charitable Trust</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Charitable Trust in Anglo-American law serves specific charitable purposes and has an equivalent in civil law foundations.</data>
+  <data key="d3">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Probate">
+  <data key="d0">Probate</data>
+  <data key="d1">concept</data>
+  <data key="d2">Probate is a legal process for transferring property following a person’s death, often cumbersome in Anglo-American jurisdictions.</data>
+  <data key="d3">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Secured Transaction">
+  <data key="d0">Secured Transaction</data>
+  <data key="d1">concept</data>
+  <data key="d2">Secured Transaction involves using property as security for loans or obligations, recognized in both Anglo-American and civil law.</data>
+  <data key="d3">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Mortgage">
+  <data key="d0">Mortgage</data>
+  <data key="d1">concept</data>
+  <data key="d2">Mortgage is a common law device where property ownership is temporarily transferred to a creditor under certain conditions.</data>
+  <data key="d3">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Hypothec">
+  <data key="d0">Hypothec</data>
+  <data key="d1">concept</data>
+  <data key="d2">Hypothec is a civil law pledge that allows a debtor to retain possession of property while using it as security for a debt.</data>
+  <data key="d3">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Equity Courts">
+  <data key="d0">Equity Courts</data>
+  <data key="d1">concept</data>
+  <data key="d2">Equity Courts are judicial entities that protect debtors' rights and ensure fair treatment in property transactions.</data>
+  <data key="d3">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Legal Title">
+  <data key="d0">Legal Title</data>
+  <data key="d1">concept</data>
+  <data key="d2">Legal Title refers to formal ownership rights to property, which a debtor may not possess if encumbered by a mortgage.</data>
+  <data key="d3">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Third Parties">
+  <data key="d0">Third Parties</data>
+  <data key="d1">concept</data>
+  <data key="d2">Third Parties are individuals or entities potentially affected by property transactions involving debtors and creditors.</data>
+  <data key="d3">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Remainder">
+  <data key="d0">Remainder</data>
+  <data key="d1">concept</data>
+  <data key="d2">Remainder is a future interest in property that takes effect after the termination of a prior interest, such as a life estate.</data>
+  <data key="d3">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Edith">
+  <data key="d0">Edith</data>
+  <data key="d1">person</data>
+  <data key="d2">Edith is a person mentioned as the beneficiary of a life estate in the example provided, who will possess the property for her life.</data>
+  <data key="d3">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="George">
+  <data key="d0">George</data>
+  <data key="d1">person</data>
+  <data key="d2">George is mentioned as the son of Edith who is to inherit a life estate after his mother’s death and has children who would inherit after him.</data>
+  <data key="d3">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Contingencies">
+  <data key="d0">Contingencies</data>
+  <data key="d1">concept</data>
+  <data key="d2">Contingencies refer to conditions that must be met for certain interests in property or rights to take effect, as described in various legal contexts.</data>
+  <data key="d3">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Usufruct">
+  <data key="d0">Usufruct</data>
+  <data key="d1">concept</data>
+  <data key="d2">Usufruct is a right in civil law that gives a person temporary rights to use and benefit from another's property without owning it.</data>
+  <data key="d3">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Fideicommissary Substitutions">
+  <data key="d0">Fideicommissary Substitutions</data>
+  <data key="d1">concept</data>
+  <data key="d2">Fideicommissary substitutions are legal mechanisms allowing for conditional gifts in civil law, a remnant of ancient Roman law regarding legacies.</data>
+  <data key="d3">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Tenancy">
+  <data key="d0">Tenancy</data>
+  <data key="d1">concept</data>
+  <data key="d2">Tenancy describes a legal agreement in which one party occupies land or property owned by another party, typically articulated through rental agreements.</data>
+  <data key="d3">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Landlord-Tenant Relationship">
+  <data key="d0">Landlord-Tenant Relationship</data>
+  <data key="d1">concept</data>
+  <data key="d2">The landlord-tenant relationship pertains to the legal obligations and rights between landlords and tenants regarding property use and possession.</data>
+  <data key="d3">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Residential Tenancies">
+  <data key="d0">Residential Tenancies</data>
+  <data key="d1">concept</data>
+  <data key="d2">Residential tenancies refer to rental agreements that pertain to living accommodations, often subject to specific laws and regulations.&lt;SEP&gt;Residential tenancies pertain to rental agreements for living accommodations, significantly impacted by recent legal changes.</data>
+  <data key="d3">chunk-15e6a315e9822d898cf2d6d3debf0ac8&lt;SEP&gt;chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Commercial Tenancies">
+  <data key="d0">Commercial Tenancies</data>
+  <data key="d1">concept</data>
+  <data key="d2">Commercial tenancies are legal agreements allowing businesses to lease property for commercial purposes under specific negotiated terms.&lt;SEP&gt;Commercial tenancies are rental agreements for business properties, primarily relying on private negotiations and traditional lease forms.</data>
+  <data key="d3">chunk-15e6a315e9822d898cf2d6d3debf0ac8&lt;SEP&gt;chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Fee Simple">
+  <data key="d0">Fee Simple</data>
+  <data key="d1">concept</data>
+  <data key="d2">Fee simple is a type of freehold ownership in property law that provides the most complete form of ownership with the potential for total control of the property, barring certain conditions.</data>
+  <data key="d3">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Fee Simple Determinable">
+  <data key="d0">Fee Simple Determinable</data>
+  <data key="d1">concept</data>
+  <data key="d2">Fee simple determinable is a form of fee simple ownership that may automatically terminate when a designated condition occurs, such as failure to use the property for specified purposes.</data>
+  <data key="d3">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Fee Simple Subject to a Condition Subsequent">
+  <data key="d0">Fee Simple Subject to a Condition Subsequent</data>
+  <data key="d1">concept</data>
+  <data key="d2">Fee simple subject to a condition subsequent is a type of fee simple ownership that remains valid unless a specific event occurs that allows the prior owner to reclaim ownership.</data>
+  <data key="d3">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Government Grants">
+  <data key="d0">Government Grants</data>
+  <data key="d1">concept</data>
+  <data key="d2">Government grants refer to monetary support provided by the government that has become more secure in recent years.</data>
+  <data key="d3">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Landlord-Tenant Law">
+  <data key="d0">Landlord-Tenant Law</data>
+  <data key="d1">concept</data>
+  <data key="d2">Landlord-tenant law governs the relationship between landlords and tenants, with a trend toward greater security for tenants in the West.</data>
+  <data key="d3">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Anglo-American Property Law">
+  <data key="d0">Anglo-American Property Law</data>
+  <data key="d1">concept</data>
+  <data key="d2">Anglo-American property law historically distinguished between interests in land and other types of property, with modern shifts toward more similarity.</data>
+  <data key="d3">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Movable Property">
+  <data key="d0">Movable Property</data>
+  <data key="d1">concept</data>
+  <data key="d2">Movable property refers to personal possessions that are protected under different legal actions than immovable property.</data>
+  <data key="d3">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Immovable Property">
+  <data key="d0">Immovable Property</data>
+  <data key="d1">concept</data>
+  <data key="d2">Immovable property pertains to real estate, such as land and buildings, which has specific legal protections.</data>
+  <data key="d3">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Noncitizens">
+  <data key="d0">Noncitizens</data>
+  <data key="d1">concept</data>
+  <data key="d2">Noncitizens may face restrictions on their property-holding capacity in many jurisdictions, especially in Western countries.</data>
+  <data key="d3">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="American Indians">
+  <data key="d0">American Indians</data>
+  <data key="d1">person</data>
+  <data key="d2">American Indians residing on reservations have specific property-holding rules concerning tribal land.</data>
+  <data key="d3">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Children">
+  <data key="d0">Children</data>
+  <data key="d1">person</data>
+  <data key="d2">Children can own property but require parental or guardian consent to deal with it in Western legal systems.</data>
+  <data key="d3">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Competent Adult Women">
+  <data key="d0">Competent Adult Women</data>
+  <data key="d1">person</data>
+  <data key="d2">The property-holding capacity and ability to deal with property of competent adult women have been significantly improved in the West.</data>
+  <data key="d3">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Property-as-Commodity">
+  <data key="d0">Property-as-Commodity</data>
+  <data key="d1">concept</data>
+  <data key="d2">Property-as-commodity refers to the view of property as a form of wealth in legal discussions related to ownership and rights.</data>
+  <data key="d3">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Property-as-Propriety">
+  <data key="d0">Property-as-Propriety</data>
+  <data key="d1">concept</data>
+  <data key="d2">Property-as-propriety is the conceptualization of property as the material foundation of a good society, influencing discussions about property rights.</data>
+  <data key="d3">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Guardian">
+  <data key="d0">Guardian</data>
+  <data key="d1">concept</data>
+  <data key="d2">A Guardian is appointed to manage the property on behalf of an incompetent individual, authorized to act in their interests.</data>
+  <data key="d3">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Incompetent">
+  <data key="d0">Incompetent</data>
+  <data key="d1">concept</data>
+  <data key="d2">Incompetent refers to individuals who are unable to manage their property or affairs, necessitating guardianship.</data>
+  <data key="d3">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836180</data>
+  <data key="d6"></data>
+</node>
+<node id="Marital Property Regimes">
+  <data key="d0">Marital Property Regimes</data>
+  <data key="d1">concept</data>
+  <data key="d2">Marital property regimes are legal frameworks governing the ownership and management of property within marriage, differing across jurisdictions.</data>
+  <data key="d3">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Joint Tenancy">
+  <data key="d0">Joint Tenancy</data>
+  <data key="d1">concept</data>
+  <data key="d2">Joint tenancy is a form of co-ownership where surviving co-owners inherit the shares of deceased co-owners automatically.</data>
+  <data key="d3">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Tenancy in Common">
+  <data key="d0">Tenancy in Common</data>
+  <data key="d1">concept</data>
+  <data key="d2">Tenancy in common is a co-ownership format where deceased co-owners' shares pass to their heirs rather than automatically to co-owners.</data>
+  <data key="d3">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Cotenancy">
+  <data key="d0">Cotenancy</data>
+  <data key="d1">concept</data>
+  <data key="d2">Cotenancy refers to a form of shared ownership among multiple owners for property, which may have various legal implications.</data>
+  <data key="d3">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="French Law">
+  <data key="d0">French Law</data>
+  <data key="d1">concept</data>
+  <data key="d2">French law provides specific provisions for co-ownership and partition of property among co-owners.</data>
+  <data key="d3">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="English Common Law">
+  <data key="d0">English Common Law</data>
+  <data key="d1">concept</data>
+  <data key="d2">English common law governs partnership property rules and inherited property practices within its legal system.</data>
+  <data key="d3">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Tenancy by the Entirety">
+  <data key="d0">Tenancy by the Entirety</data>
+  <data key="d1">concept</data>
+  <data key="d2">Tenancy by the entirety is a form of joint property ownership exclusive to married couples, providing survivorship rights.</data>
+  <data key="d3">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="20th Century">
+  <data key="d0">20th Century</data>
+  <data key="d1">concept</data>
+  <data key="d2">The 20th Century refers to the period from 1901 to 2000, noted for significant legal changes impacting marital property rights.</data>
+  <data key="d3">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="21st Century">
+  <data key="d0">21st Century</data>
+  <data key="d1">concept</data>
+  <data key="d2">The 21st Century refers to the current period, marked by continuing evolution of laws related to property ownership and marital rights.</data>
+  <data key="d3">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Landlord-Tenant Relationships">
+  <data key="d0">Landlord-Tenant Relationships</data>
+  <data key="d1">concept</data>
+  <data key="d2">Landlord-tenant relationships refer to the legal agreements and rights between landlords and tenants, especially in residential and agricultural contexts.</data>
+  <data key="d3">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Agricultural Tenancies">
+  <data key="d0">Agricultural Tenancies</data>
+  <data key="d1">concept</data>
+  <data key="d2">Agricultural tenancies involve rental agreements for agricultural properties, which have also seen extensive legal changes.</data>
+  <data key="d3">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Javins v. First Natl Realty Co.">
+  <data key="d0">Javins v. First Natl Realty Co.</data>
+  <data key="d1">event</data>
+  <data key="d2">Javins v. First Nat’l Realty Co. is a landmark court case that established that every residential lease must include a warranty of habitability.</data>
+  <data key="d3">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Local Housing Code">
+  <data key="d0">Local Housing Code</data>
+  <data key="d1">concept</data>
+  <data key="d2">Local housing codes set standards for maintaining habitable living conditions in rental properties and are enforced in landlord-tenant relationships.</data>
+  <data key="d3">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Trust">
+  <data key="d0">Trust</data>
+  <data key="d1">concept</data>
+  <data key="d2">A trust is a legal arrangement that separates property management from financial benefits, crucial in Anglo-American law.</data>
+  <data key="d3">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Trustee">
+  <data key="d0">Trustee</data>
+  <data key="d1">person</data>
+  <data key="d2">A trustee is an individual or organization appointed to manage property held in trust for the benefit of beneficiaries.</data>
+  <data key="d3">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Beneficiary">
+  <data key="d0">Beneficiary</data>
+  <data key="d1">person</data>
+  <data key="d2">A beneficiary is an individual who benefits from the trust property, receiving all the advantages while the trustee manages the property.</data>
+  <data key="d3">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Settlor">
+  <data key="d0">Settlor</data>
+  <data key="d1">person</data>
+  <data key="d2">A settlor is a person who creates a trust by conveying property to the trustee and stipulating the terms of the trust for beneficiaries.</data>
+  <data key="d3">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Spendthrift Trust">
+  <data key="d0">Spendthrift Trust</data>
+  <data key="d1">concept</data>
+  <data key="d2">A spendthrift trust is a trust that protects a beneficiary’s interest from claims by creditors, permitting secure asset management.</data>
+  <data key="d3">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Urban Housing">
+  <data key="d0">Urban Housing</data>
+  <data key="d1">concept</data>
+  <data key="d2">Urban housing refers to residential housing within city limits, often associated with conditions impacting lower-income residents.</data>
+  <data key="d3">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Deteriorated Housing Conditions">
+  <data key="d0">Deteriorated Housing Conditions</data>
+  <data key="d1">concept</data>
+  <data key="d2">Deteriorated housing conditions refer to the inadequate living situations faced by the urban poor, requiring legal reforms to ensure standards.</data>
+  <data key="d3">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Legislators">
+  <data key="d0">Legislators</data>
+  <data key="d1">person</data>
+  <data key="d2">Legislators are individuals elected to make laws, playing a role in enacting changes to landlord-tenant regulations in various jurisdictions.</data>
+  <data key="d3">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Gold">
+  <data key="d0">Gold</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Gold is a mineral that historically was reserved to the crown in England, with significant legal implications for ownership rights.</data>
+  <data key="d3">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Silver">
+  <data key="d0">Silver</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Silver is a mineral previously reserved to the crown in England, shaping ownership laws throughout history.</data>
+  <data key="d3">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Lead">
+  <data key="d0">Lead</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Lead is a mineral that historically was reserved to the crown in England, affecting property rights and ownership laws.</data>
+  <data key="d3">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Copyright">
+  <data key="d0">Copyright</data>
+  <data key="d1">concept</data>
+  <data key="d2">Copyright is the exclusive right to prohibit copying a written piece or artwork, treated as a property right in Western systems.</data>
+  <data key="d3">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Patent">
+  <data key="d0">Patent</data>
+  <data key="d1">concept</data>
+  <data key="d2">A Patent is a government-granted right for exclusive use of an invention, solidified as a key property right in many jurisdictions.</data>
+  <data key="d3">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Trademark">
+  <data key="d0">Trademark</data>
+  <data key="d1">concept</data>
+  <data key="d2">A Trademark is a government-granted exclusive right to market products with a distinctive symbol, extending property rights in commerce.</data>
+  <data key="d3">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Public Law Program">
+  <data key="d0">Public Law Program</data>
+  <data key="d1">concept</data>
+  <data key="d2">Public Law Programs involve government grants and protections for property rights, impacting how property is treated legally.</data>
+  <data key="d3">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Territorial Waters">
+  <data key="d0">Territorial Waters</data>
+  <data key="d1">concept</data>
+  <data key="d2">Territorial Waters refer to the legal rights and boundaries related to water bodies, which vary substantially from jurisdiction to jurisdiction.</data>
+  <data key="d3">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Riparian Right">
+  <data key="d0">Riparian Right</data>
+  <data key="d1">concept</data>
+  <data key="d2">Riparian Right is a legal concept concerning the rights of landowners whose land borders a river or stream to access and use the water.</data>
+  <data key="d3">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836181</data>
+  <data key="d6"></data>
+</node>
+<node id="Theft">
+  <data key="d0">Theft</data>
+  <data key="d3">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d2">Burglary is classified as a form of theft involving unlawful entry.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836182</data>
+  <data key="d6"></data>
+</node>
+<node id="Civil-Law Tradition">
+  <data key="d0">Civil-Law Tradition</data>
+  <data key="d3">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d2">The triad of ownership is a foundational concept in the civil-law tradition, defining the rights associated with ownership.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836183</data>
+  <data key="d6"></data>
+</node>
+<node id="Civil Law Foundation">
+  <data key="d0">Civil Law Foundation</data>
+  <data key="d3">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d2">The Charitable Trust has a counterpart in civil law known as the foundation.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">property_law.txt</data>
+  <data key="d5">1774836184</data>
+  <data key="d6"></data>
+</node>
+<node id="Sulfonylureas">
+  <data key="d0">Sulfonylureas</data>
+  <data key="d1">method</data>
+  <data key="d2">Sulfonylureas are a class of oral drugs that stimulate insulin release from beta cells in the pancreas to control blood glucose levels.&lt;SEP&gt;Sulfonylureas are a class of oral diabetes medications that stimulate insulin secretion from pancreatic beta cells.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f&lt;SEP&gt;chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838947</data>
+  <data key="d6"></data>
+</node>
+<node id="Biguanides">
+  <data key="d0">Biguanides</data>
+  <data key="d1">method</data>
+  <data key="d2">Biguanides are a class of oral drugs, primarily metformin, that decrease glucose production in the liver and increase insulin action on tissues.&lt;SEP&gt;Biguanides are another class of oral drugs used for blood glucose control in diabetes.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f&lt;SEP&gt;chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838947</data>
+  <data key="d6"></data>
+</node>
+<node id="Thiazolidinediones">
+  <data key="d0">Thiazolidinediones</data>
+  <data key="d1">method</data>
+  <data key="d2">Thiazolidinediones are a class of oral drugs that reduce insulin resistance and increase glucose transport in muscle and adipose tissues.&lt;SEP&gt;Thiazolidinediones are oral medications utilized to improve insulin sensitivity and control blood glucose levels.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f&lt;SEP&gt;chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838947</data>
+  <data key="d6"></data>
+</node>
+<node id="Glipizide">
+  <data key="d0">Glipizide</data>
+  <data key="d1">drug</data>
+  <data key="d2">Glipizide is a specific sulfonylurea used to lower blood glucose levels by stimulating insulin release.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838947</data>
+  <data key="d6"></data>
+</node>
+<node id="Glimepiride">
+  <data key="d0">Glimepiride</data>
+  <data key="d1">drug</data>
+  <data key="d2">Glimepiride is another sulfonylurea that helps control blood glucose levels by increasing insulin secretion.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838947</data>
+  <data key="d6"></data>
+</node>
+<node id="Metformin">
+  <data key="d0">Metformin</data>
+  <data key="d1">drug</data>
+  <data key="d2">Metformin is the primary biguanide that decreases liver glucose production and enhances insulin action on tissues.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838947</data>
+  <data key="d6"></data>
+</node>
+<node id="Rosiglitazone">
+  <data key="d0">Rosiglitazone</data>
+  <data key="d1">drug</data>
+  <data key="d2">Rosiglitazone is a thiazolidinedione that helps control blood sugar by reducing insulin resistance.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838947</data>
+  <data key="d6"></data>
+</node>
+<node id="Pioglitazone">
+  <data key="d0">Pioglitazone</data>
+  <data key="d1">drug</data>
+  <data key="d2">Pioglitazone is another thiazolidinedione that improves insulin sensitivity in muscle and adipose cells.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838947</data>
+  <data key="d6"></data>
+</node>
+<node id="Pramlintide">
+  <data key="d0">Pramlintide</data>
+  <data key="d1">drug</data>
+  <data key="d2">Pramlintide is an injectable hormone that regulates blood glucose by slowing food absorption and inhibiting glucagon.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Exenatide">
+  <data key="d0">Exenatide</data>
+  <data key="d1">drug</data>
+  <data key="d2">Exenatide is an injectable antihyperglycemic drug that mimics incretin hormones to stimulate insulin release.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Sitagliptin">
+  <data key="d0">Sitagliptin</data>
+  <data key="d1">drug</data>
+  <data key="d2">Sitagliptin is a drug that inhibits DPP-4, increasing levels of incretins to enhance glucose control.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Semaglutide">
+  <data key="d0">Semaglutide</data>
+  <data key="d1">drug</data>
+  <data key="d2">Semaglutide mimics glucagon-like peptide-1 (GLP-1) to help regulate glucose and induce satiety.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Hypoglycemia">
+  <data key="d0">Hypoglycemia</data>
+  <data key="d1">concept</data>
+  <data key="d2">Hypoglycemia is a condition characterized by abnormally low blood glucose levels, often due to certain medications.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Diabetes">
+  <data key="d0">Diabetes</data>
+  <data key="d1">concept</data>
+  <data key="d2">Diabetes is a chronic condition affecting glucose regulation and metabolism, treated with various oral and injectable drugs.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Lactic Acid">
+  <data key="d0">Lactic Acid</data>
+  <data key="d1">concept</data>
+  <data key="d2">Lactic acid is a substance that can accumulate in blood and tissues as a potentially fatal side effect of metformin.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Edema">
+  <data key="d0">Edema</data>
+  <data key="d1">concept</data>
+  <data key="d2">Edema is a condition characterized by fluid accumulation in tissues, which can be caused by thiazolidinediones.</data>
+  <data key="d3">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Diabetes Mellitus">
+  <data key="d0">Diabetes Mellitus</data>
+  <data key="d1">concept</data>
+  <data key="d2">Diabetes Mellitus is a chronic condition characterized by high blood sugar levels, requiring monitoring and management, usually through insulin therapies and diet control.</data>
+  <data key="d3">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Insulin Therapies">
+  <data key="d0">Insulin Therapies</data>
+  <data key="d1">concept</data>
+  <data key="d2">Insulin therapies are treatments aimed at managing diabetes by administering insulin to control blood glucose levels, often involving various types of insulin formulations.</data>
+  <data key="d3">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Beef Insulin">
+  <data key="d0">Beef Insulin</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Beef insulin is a form of insulin derived from cattle's pancreatic extracts, previously used for diabetes treatment but discontinued in the United States.</data>
+  <data key="d3">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Pork Insulin">
+  <data key="d0">Pork Insulin</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Pork insulin is a form of insulin derived from pigs' pancreatic extracts, previously used for diabetes treatment but discontinued in favor of human insulin.</data>
+  <data key="d3">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Human Insulin">
+  <data key="d0">Human Insulin</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Human insulin is a synthetic form of insulin produced using recombinant DNA technology, used in modern diabetes treatment and available in various formulations.</data>
+  <data key="d3">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Rapid-Acting Insulin">
+  <data key="d0">Rapid-Acting Insulin</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Rapid-acting insulin is a type of insulin that lowers blood glucose levels quickly, typically administered before meals, and includes an inhalable form introduced in 2014.</data>
+  <data key="d3">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Long-Acting Insulin">
+  <data key="d0">Long-Acting Insulin</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Long-acting insulin is designed to provide a prolonged effect, managing blood glucose levels for up to 24 hours after administration.</data>
+  <data key="d3">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Glucometer">
+  <data key="d0">Glucometer</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A glucometer is a device used by diabetics to monitor their blood glucose levels regularly.</data>
+  <data key="d3">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Pancreas Transplantation">
+  <data key="d0">Pancreas Transplantation</data>
+  <data key="d1">method</data>
+  <data key="d2">Pancreas transplantation is a surgical method used to treat patients with type 1 diabetes by replacing the diseased pancreas.</data>
+  <data key="d3">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Beta Cell Transplantation">
+  <data key="d0">Beta Cell Transplantation</data>
+  <data key="d1">method</data>
+  <data key="d2">Beta cell transplantation involves replacing damaged or non-functioning insulin-producing beta cells in the pancreas.</data>
+  <data key="d3">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838948</data>
+  <data key="d6"></data>
+</node>
+<node id="Insulin Pump">
+  <data key="d0">Insulin Pump</data>
+  <data key="d1">artifact</data>
+  <data key="d2">An insulin pump is a medical device that delivers insulin continuously to help manage blood glucose levels in diabetes patients.</data>
+  <data key="d3">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d4">diabetes_insulin_therapies.txt</data>
+  <data key="d5">1774838949</data>
+  <data key="d6"></data>
+</node>
+<edge source="Wars of the Roses" target="House of Lancaster">
+  <data key="d7">2.0</data>
+  <data key="d8">The Wars of the Roses involved a civil conflict between the House of Lancaster and the House of York for the English throne.&lt;SEP&gt;The Wars of the Roses were fought as a rivalry between the House of Lancaster and the House of York for control of the English throne.</data>
+  <data key="d9">civil conflict,competing factions,power struggle,rivalry</data>
+  <data key="d10">chunk-dfa85355242315f033b4bb60edaa01d2&lt;SEP&gt;chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834674</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Wars of the Roses" target="House of York">
+  <data key="d7">2.0</data>
+  <data key="d8">The Wars of the Roses featured a civil conflict between the House of York and the House of Lancaster for control of the English throne.&lt;SEP&gt;The Wars of the Roses were fought as a rivalry between the House of York and the House of Lancaster for control of the English throne.</data>
+  <data key="d9">civil conflict,competing factions,power struggle,rivalry</data>
+  <data key="d10">chunk-dfa85355242315f033b4bb60edaa01d2&lt;SEP&gt;chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834674</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Wars of the Roses" target="Richard, Duke of York">
+  <data key="d7">1.0</data>
+  <data key="d8">Richard, Duke of York initiated the Wars of the Roses by claiming the English throne and becoming protector of the realm.</data>
+  <data key="d9">claim to throne,instigator</data>
+  <data key="d10">chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834674</data>
+  <data key="d13"></data>
+</edge>
+<edge source="House of Lancaster" target="Edward III">
+  <data key="d7">1.0</data>
+  <data key="d8">The House of Lancaster claimed the English throne through descent from Edward III.</data>
+  <data key="d9">ancestry,royal lineage</data>
+  <data key="d10">chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834674</data>
+  <data key="d13"></data>
+</edge>
+<edge source="House of Lancaster" target="Henry VI">
+  <data key="d7">1.0</data>
+  <data key="d8">Henry VI was the reigning monarch of the House of Lancaster during the Wars of the Roses, representing their claim to the English throne.</data>
+  <data key="d9">leadership,royalty</data>
+  <data key="d10">chunk-dfa85355242315f033b4bb60edaa01d2</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834675</data>
+  <data key="d13"></data>
+</edge>
+<edge source="House of York" target="Edward III">
+  <data key="d7">1.0</data>
+  <data key="d8">The House of York traced its claim to the throne back to Edward III, establishing its position in the Wars of the Roses.</data>
+  <data key="d9">ancestry,royal lineage</data>
+  <data key="d10">chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834674</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Henry VI" target="Margaret of Anjou">
+  <data key="d7">2.0</data>
+  <data key="d8">Henry VI's marriage to Margaret of Anjou positioned her as a powerful influence during the Wars of the Roses.&lt;SEP&gt;Henry VI was married to Margaret of Anjou, who exerted significant political influence during the Wars of the Roses.</data>
+  <data key="d9">marriage,political influence</data>
+  <data key="d10">chunk-dfa85355242315f033b4bb60edaa01d2&lt;SEP&gt;chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834674</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Henry VI" target="Richard, Duke of York">
+  <data key="d7">2.0</data>
+  <data key="d8">Richard, Duke of York took up arms against Henry VI in the Wars of the Roses due to political conflicts and power struggles.&lt;SEP&gt;Henry VI appointed Richard, Duke of York as protector of the realm during his periods of insanity in the Wars of the Roses.</data>
+  <data key="d9">political appointment,political conflict,power dynamics,power struggle</data>
+  <data key="d10">chunk-dfa85355242315f033b4bb60edaa01d2</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834675</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Richard, Duke of York" target="Richard Neville, Earl of Warwick">
+  <data key="d7">1.0</data>
+  <data key="d8">Richard, Duke of York and Richard Neville, Earl of Warwick formed a crucial alliance in the Yorkist efforts during the Wars of the Roses.</data>
+  <data key="d9">alliance,military leadership</data>
+  <data key="d10">chunk-dfa85355242315f033b4bb60edaa01d2</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834674</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Edward IV" target="Henry VII">
+  <data key="d7">1.0</data>
+  <data key="d8">Edward IV's daughter, Elizabeth of York, married Henry VII, uniting the claims of both houses at the end of the Wars of the Roses.</data>
+  <data key="d9">family connection,political alliance</data>
+  <data key="d10">chunk-dfa85355242315f033b4bb60edaa01d2</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834674</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Battle of Bosworth Field" target="Henry Tudor">
+  <data key="d7">1.0</data>
+  <data key="d8">Henry Tudor's victory at the Battle of Bosworth Field marked the end of the Wars of the Roses.</data>
+  <data key="d9">conclusion,victory</data>
+  <data key="d10">chunk-10e57cd1e078760fff38d084350f5e77</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834674</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Second Battle of St. Albans" target="Edward">
+  <data key="d7">1.0</data>
+  <data key="d8">Edward's forces were involved in the conflict at the Second Battle of St. Albans, which resulted in a victory for the Lancastrians.</data>
+  <data key="d9">conflict,military victory</data>
+  <data key="d10">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834675</data>
+  <data key="d13"></data>
+</edge>
+<edge source="National Portrait Gallery" target="London">
+  <data key="d7">1.0</data>
+  <data key="d8">The National Portrait Gallery is situated in London, contributing to its cultural landscape.</data>
+  <data key="d9">cultural significance,location</data>
+  <data key="d10">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834674</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Lancastrians" target="York">
+  <data key="d7">1.0</data>
+  <data key="d8">The Lancastrians were opposed to York's forces during the Wars of the Roses, exemplifying deep-seated factional conflict.</data>
+  <data key="d9">factional conflict,historical rivalry</data>
+  <data key="d10">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834675</data>
+  <data key="d13"></data>
+</edge>
+<edge source="York" target="Warwick">
+  <data key="d7">1.0</data>
+  <data key="d8">York and Warwick were allied in opposing the Lancastrians during the Wars of the Roses.</data>
+  <data key="d9">military engagement,political alliance</data>
+  <data key="d10">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834675</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Edward" target="King Edward IV">
+  <data key="d7">1.0</data>
+  <data key="d8">Edward was proclaimed King Edward IV at Westminster, signifying his claim to the throne following military victories.</data>
+  <data key="d9">monarchical achievement,succession</data>
+  <data key="d10">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834675</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Edward" target="Margaret">
+  <data key="d7">1.0</data>
+  <data key="d8">Edward's rise to power confirmed him as a rival to Margaret and the Lancastrian cause.</data>
+  <data key="d9">conflict,rivalry</data>
+  <data key="d10">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834675</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Edward" target="Towton">
+  <data key="d7">1.0</data>
+  <data key="d8">Edward pursued Margaret to Towton, culminating in the bloodiest battle of the war.</data>
+  <data key="d9">concluding battle,military pursuit</data>
+  <data key="d10">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834676</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Edward" target="Duke of York">
+  <data key="d7">1.0</data>
+  <data key="d8">The Duke of York is the familial predecessor to Edward, whose military actions led to Edward's claim to the throne.</data>
+  <data key="d9">family connection,succession</data>
+  <data key="d10">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834676</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Margaret" target="Henry">
+  <data key="d7">2.0</data>
+  <data key="d8">Margaret and Henry are linked as a part of the royal family opposing Edward IV in the conflict.&lt;SEP&gt;Henry and Margaret are linked as the royal couple associated with the Lancastrians during the Wars of the Roses.</data>
+  <data key="d9">association,historical association,royal family,royal partnership</data>
+  <data key="d10">chunk-a1b4523d0ab404d11474869db22319af</data>
+  <data key="d11">wars_of_the_roses.txt</data>
+  <data key="d12">1774834675</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Property Law" target="Western Legal Systems">
+  <data key="d7">1.0</data>
+  <data key="d8">Property law serves as a foundational element in understanding the dynamics between objects and subjects within Western legal systems.</data>
+  <data key="d9">legal framework,property rights</data>
+  <data key="d10">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836181</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Property Law" target="Possessory Interests">
+  <data key="d7">1.0</data>
+  <data key="d8">Property law encompasses the frameworks and definitions related to possessory interests in property.</data>
+  <data key="d9">legal rights,property ownership</data>
+  <data key="d10">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Property Law" target="Trusts">
+  <data key="d7">1.0</data>
+  <data key="d8">Trusts serve as a key aspect of property law, detailing the management and distribution of property rights.</data>
+  <data key="d9">legal arrangement,property management</data>
+  <data key="d10">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Property Law" target="Zoning and Planning">
+  <data key="d7">1.0</data>
+  <data key="d8">Zoning and planning are critical components of property law, guiding land use and property rights regulation.</data>
+  <data key="d9">land use,regulatory framework</data>
+  <data key="d10">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Anglo-American Law" target="Civil Law">
+  <data key="d7">3.0</data>
+  <data key="d8">Anglo-American law and civil law offer contrasting approaches to property definitions and protections, reflecting different historical contexts.&lt;SEP&gt;Civil Law's reluctance to recognize intangible interests contrasts with Anglo-American Law's broader recognition of possessory rights.&lt;SEP&gt;Civil law contrasts with Anglo-American law in its treatment of ownership and possession, particularly regarding temporal divisions.</data>
+  <data key="d9">legal differences,legal systems,legal traditions,property definitions,property ownership,property rights</data>
+  <data key="d10">chunk-59d4d49bb556e54eabfebc535ba344b2&lt;SEP&gt;chunk-8693f4b56d6befe03f991557d9ba5f11&lt;SEP&gt;chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836181</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Anglo-American Law" target="United States">
+  <data key="d7">1.0</data>
+  <data key="d8">The United States, under Anglo-American law, addresses property interests with specific constitutional protections that diverge from other legal frameworks.</data>
+  <data key="d9">constitutional protection,legal systems</data>
+  <data key="d10">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Anglo-American Law" target="Adverse Possession">
+  <data key="d7">1.0</data>
+  <data key="d8">Anglo-American law provides conditions under which adverse possession can lead to ownership claims, affecting property rights.</data>
+  <data key="d9">legal framework,property rights</data>
+  <data key="d10">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Anglo-American Law" target="Temporal Divisions">
+  <data key="d7">1.0</data>
+  <data key="d8">Anglo-American law allows for temporal divisions of ownership, leading to different rights of possession and ownership over time.</data>
+  <data key="d9">legal structure,property rights</data>
+  <data key="d10">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Civil Law" target="Prescription">
+  <data key="d7">1.0</data>
+  <data key="d8">In civil law, prescription allows for the acquisition of property rights after continuous possession over time.</data>
+  <data key="d9">legal process,property acquisition</data>
+  <data key="d10">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Civil Law" target="Anglo-American Trust">
+  <data key="d7">1.0</data>
+  <data key="d8">The Anglo-American Trust and Civil Law represent different approaches to property management and inheritance.</data>
+  <data key="d9">legal systems,property arrangements</data>
+  <data key="d10">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Civil Law" target="Usufruct">
+  <data key="d7">1.0</data>
+  <data key="d8">Usufruct is compared to the life estate in Anglo-American law within the context of civil law, illustrating differences in property rights.</data>
+  <data key="d9">comparative law,property rights</data>
+  <data key="d10">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Civil Law" target="Fideicommissary Substitutions">
+  <data key="d7">1.0</data>
+  <data key="d8">Fideicommissary substitutions are legal exceptions within civil law historically rooted in Roman legacy practices.</data>
+  <data key="d9">gift conditions,historical context</data>
+  <data key="d10">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Civil Law" target="Movable Property">
+  <data key="d7">1.0</data>
+  <data key="d8">Civil law recognizes the distinction between movable property and immovable property similar to Anglo-American principles.</data>
+  <data key="d9">legal recognition,property law</data>
+  <data key="d10">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Civil Law" target="Immovable Property">
+  <data key="d7">1.0</data>
+  <data key="d8">Civil law also defines immovable property, maintaining a legal framework for real estate.</data>
+  <data key="d9">legal recognition,property law</data>
+  <data key="d10">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Water" target="Land">
+  <data key="d7">1.0</data>
+  <data key="d8">The treatment of water and land in property law emphasizes different rights and regulations due to their vital natural resource status.</data>
+  <data key="d9">natural resources,property rights</data>
+  <data key="d10">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836181</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Water" target="State">
+  <data key="d7">1.0</data>
+  <data key="d8">Water is categorized as a natural resource that belongs to the state or community and is not privately owned.</data>
+  <data key="d9">natural resources,public ownership</data>
+  <data key="d10">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Water" target="United States">
+  <data key="d7">1.0</data>
+  <data key="d8">Water in the United States is governed by a legal framework that addresses ownership and usage rights.</data>
+  <data key="d9">legal framework,ownership rights</data>
+  <data key="d10">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="United States" target="Residential Tenancies">
+  <data key="d7">1.0</data>
+  <data key="d8">The changes in landlord-tenant law in the United States particularly affected residential tenancies in the 1960s and 1970s.</data>
+  <data key="d9">housing law,legal reform</data>
+  <data key="d10">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="United States" target="Riparian Right">
+  <data key="d7">1.0</data>
+  <data key="d8">Riparian Rights are part of the legal frameworks governing water ownership and usage in the United States.</data>
+  <data key="d9">legal frameworks,water rights</data>
+  <data key="d10">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="United States" target="Territorial Waters">
+  <data key="d7">1.0</data>
+  <data key="d8">Territorial Waters are subject to various legal frameworks within different jurisdictions in the United States.</data>
+  <data key="d9">jurisdiction,legal frameworks</data>
+  <data key="d10">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836186</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Eminent Domain" target="Ownership Types">
+  <data key="d7">1.0</data>
+  <data key="d8">Eminent domain relates to the government's authority to regulate different ownership types for public purposes.</data>
+  <data key="d9">government power,property regulation</data>
+  <data key="d10">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836181</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Eminent Domain" target="State">
+  <data key="d7">1.0</data>
+  <data key="d8">Eminent domain allows the state to acquire private assets, typically requiring compensation to the owner.</data>
+  <data key="d9">government power,property acquisition</data>
+  <data key="d10">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ownership Types" target="Marital Owners">
+  <data key="d7">1.0</data>
+  <data key="d8">Marital owners illustrate a specific category of ownership types that reflect shared property rights within a marriage.</data>
+  <data key="d9">joint property,property rights</data>
+  <data key="d10">chunk-59d4d49bb556e54eabfebc535ba344b2</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Owner of the House" target="House Occupant">
+  <data key="d7">1.0</data>
+  <data key="d8">The owner has legal ownership while the occupant has exclusive occupancy rights, illustrating the distinction between ownership and occupancy.</data>
+  <data key="d9">occupancy rights,ownership rights</data>
+  <data key="d10">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Owner of the House" target="Peaceable Possessor">
+  <data key="d7">1.0</data>
+  <data key="d8">The peaceable possessor can hold rights against the true owner if they have occupied the land for the limitations period without challenge.</data>
+  <data key="d9">ownership claim,property rights</data>
+  <data key="d10">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Adverse Possession" target="Statute of Limitations">
+  <data key="d7">1.0</data>
+  <data key="d8">Adverse possession claims are subject to a statute of limitations that dictates how long a claimant has to assert their rights.</data>
+  <data key="d9">legal conditions,property claims</data>
+  <data key="d10">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Public Regulation of Land Use" target="Vertical Divisions of Ownership">
+  <data key="d7">1.0</data>
+  <data key="d8">Public regulations can affect the ability to create vertical divisions of ownership, complicating property management.</data>
+  <data key="d9">land use management,ownership complications</data>
+  <data key="d10">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Vertical Divisions of Ownership" target="Cuius Est Solum Eius Est Usque Ad Coelum Et Usque Ad Inferos">
+  <data key="d7">1.0</data>
+  <data key="d8">The maxim affects interpretations of vertical divisions, suggesting that ownership extends to the sky and ground.</data>
+  <data key="d9">maxim,ownership implications</data>
+  <data key="d10">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Condominium Ownership" target="Cooperative Ownership">
+  <data key="d7">1.0</data>
+  <data key="d8">Condominium and cooperative ownership represent different models of shared property ownership involving common areas.</data>
+  <data key="d9">ownership models,property structure</data>
+  <data key="d10">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Life Estate" target="Remainderman">
+  <data key="d7">1.0</data>
+  <data key="d8">The life estate allows the life tenant possession until death, while the remainderman's rights begin after the life tenant’s passing.</data>
+  <data key="d9">estate management,property rights</data>
+  <data key="d10">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Life Estate" target="Remainder">
+  <data key="d7">1.0</data>
+  <data key="d8">Life estates and remainders are related concepts in property law regarding future interests.</data>
+  <data key="d9">legal concept,property rights</data>
+  <data key="d10">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Remainderman" target="Reversion">
+  <data key="d7">1.0</data>
+  <data key="d8">The remainderman's interest is subject to reversion, which allows the original owner to reclaim ownership under certain conditions.</data>
+  <data key="d9">property interest,succession</data>
+  <data key="d10">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Remainderman" target="Common-Law Dower">
+  <data key="d7">1.0</data>
+  <data key="d8">The remainderman's interest may be affected by common-law dower, which grants certain rights to surviving spouses.</data>
+  <data key="d9">marital rights,property interest</data>
+  <data key="d10">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Remainderman" target="Curtesy">
+  <data key="d7">1.0</data>
+  <data key="d8">The rights of the remainderman may interact with curtesy laws, which provide benefits to surviving husbands regarding the wife's property.</data>
+  <data key="d9">marital rights,property interest</data>
+  <data key="d10">chunk-8693f4b56d6befe03f991557d9ba5f11</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Debtor" target="Creditor">
+  <data key="d7">2.0</data>
+  <data key="d8">The relationship between the Debtor and Creditor involves financial obligations secured by rights against property.&lt;SEP&gt;The Debtor is financially obligated to the Creditor, holding rights to the property unless default occurs.</data>
+  <data key="d9">financial obligation,property interest,property rights</data>
+  <data key="d10">chunk-9acb02c81b27ae4d1eb0770b5778950e&lt;SEP&gt;chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Debtor" target="Chattel Mortgage">
+  <data key="d7">1.0</data>
+  <data key="d8">The Chattel Mortgage arrangement allows the Debtor to retain property possession while granting the Creditor a security interest.</data>
+  <data key="d9">property possession,security interest</data>
+  <data key="d10">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Debtor" target="Third Parties">
+  <data key="d7">1.0</data>
+  <data key="d8">The actions of the Debtor can affect Third Parties who may have legal interests in property transactions.</data>
+  <data key="d9">legal ownership,property impact</data>
+  <data key="d10">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Creditor" target="Pledge">
+  <data key="d7">1.0</data>
+  <data key="d8">In a Pledge, the Creditor may possess the Debtor's property, with the Debtor having rights to redeem it upon fulfilling their obligations.</data>
+  <data key="d9">property arrangement,redemption rights</data>
+  <data key="d10">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Creditor" target="Third Parties">
+  <data key="d7">1.0</data>
+  <data key="d8">The Creditor has rights that may influence Third Parties in property transactions involving secured debts.</data>
+  <data key="d9">property rights,transaction security</data>
+  <data key="d10">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Burglary" target="Theft">
+  <data key="d7">1.0</data>
+  <data key="d8">Burglary is classified as a form of theft involving unlawful entry.</data>
+  <data key="d9">legal definition,theft classification</data>
+  <data key="d10">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Robbery" target="Theft">
+  <data key="d7">1.0</data>
+  <data key="d8">Robbery is a type of theft characterized by the use of force or intimidation.</data>
+  <data key="d9">force involved,theft classification</data>
+  <data key="d10">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Environmental Law" target="Regulatory Law">
+  <data key="d7">1.0</data>
+  <data key="d8">Environmental Law works to safeguard property interests under Regulatory Law against pollution.</data>
+  <data key="d9">property interests,protection mechanisms</data>
+  <data key="d10">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836182</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Regulatory Law" target="Administrative Procedure">
+  <data key="d7">1.0</data>
+  <data key="d8">Administrative Procedure provides a means to enforce Regulatory Law, allowing affected individuals to compel compliance.</data>
+  <data key="d9">compliance mechanism,enforcement</data>
+  <data key="d10">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Property Rights" target="Property-as-Propriety">
+  <data key="d7">1.0</data>
+  <data key="d8">The development of property rights is significantly influenced by the notion of property-as-propriety, emphasizing its role in societal well-being.</data>
+  <data key="d9">property law,social implications</data>
+  <data key="d10">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Anglo-American Criminal Codes" target="Civil Law Criminal Codes">
+  <data key="d7">1.0</data>
+  <data key="d8">The Anglo-American Criminal Codes and Civil Law Criminal Codes share similarities in prosecuting theft despite differences in definitions and classifications.</data>
+  <data key="d9">legal principles,theft prosecution</data>
+  <data key="d10">chunk-9acb02c81b27ae4d1eb0770b5778950e</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Marital Property" target="Community Property">
+  <data key="d7">1.0</data>
+  <data key="d8">Marital property includes community property that is generally divided upon the death or divorce of spouses.</data>
+  <data key="d9">divorce,property rights</data>
+  <data key="d10">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Marital Property" target="Separate Property">
+  <data key="d7">1.0</data>
+  <data key="d8">Marital property arrangements include separate property, which remains with the owner unless otherwise specified.</data>
+  <data key="d9">inheritance,property rights</data>
+  <data key="d10">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Marital Property" target="Common-Law Property Jurisdictions">
+  <data key="d7">1.0</data>
+  <data key="d8">In common-law property jurisdictions, judges have discretion in dividing marital property.</data>
+  <data key="d9">legal system,property division</data>
+  <data key="d10">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Marital Property" target="Civil-Law Jurisdictions">
+  <data key="d7">1.0</data>
+  <data key="d8">Civil-law jurisdictions have established rules regarding the ownership and rights relating to marital property.</data>
+  <data key="d9">legal system,property rights</data>
+  <data key="d10">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Community Property" target="Separate Property">
+  <data key="d7">1.0</data>
+  <data key="d8">Community Property and Separate Property highlight differences in asset ownership during and after marriage.</data>
+  <data key="d9">marital law,ownership distinction</data>
+  <data key="d10">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="State" target="Public Highways">
+  <data key="d7">1.0</data>
+  <data key="d8">The state owns public highways which are generally accessible to the public under specific conditions.</data>
+  <data key="d9">access,public ownership</data>
+  <data key="d10">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="State" target="Public Parks">
+  <data key="d7">1.0</data>
+  <data key="d8">Public parks are owned by the state and provide recreational space for the community.</data>
+  <data key="d9">public ownership,recreation</data>
+  <data key="d10">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="State" target="Air">
+  <data key="d7">1.0</data>
+  <data key="d8">Air is regarded as a collective resource that belongs to the state or community.</data>
+  <data key="d9">environmental considerations,public ownership</data>
+  <data key="d10">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="State" target="Wild Animals">
+  <data key="d7">1.0</data>
+  <data key="d8">Wild animals are considered to belong to the state or community, removed from private ownership.</data>
+  <data key="d9">conservation,public ownership</data>
+  <data key="d10">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Corporations" target="Fictitious Legal Persons">
+  <data key="d7">1.0</data>
+  <data key="d8">Fictitious legal persons include corporations that are formed under specific laws to carry out activities collectively.</data>
+  <data key="d9">legal status,organizational structure</data>
+  <data key="d10">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Triad of Ownership" target="Civil-Law Tradition">
+  <data key="d7">1.0</data>
+  <data key="d8">The triad of ownership is a foundational concept in the civil-law tradition, defining the rights associated with ownership.</data>
+  <data key="d9">legal principle,ownership rights</data>
+  <data key="d10">chunk-a88135481e4f734cf0010325351f4349</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="American Legal System" target="Civil-Law Systems">
+  <data key="d7">1.0</data>
+  <data key="d8">The American legal system and civil-law systems present contrasting approaches to ownership and possession actions.</data>
+  <data key="d9">legal comparison,systems differentiation</data>
+  <data key="d10">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="American Legal System" target="Roman Law">
+  <data key="d7">1.0</data>
+  <data key="d8">Roman law significantly influenced the foundational principles of the American legal system regarding property rights.</data>
+  <data key="d9">historical influence,legal foundation</data>
+  <data key="d10">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Civil-Law Systems" target="French Law">
+  <data key="d7">1.0</data>
+  <data key="d8">Civil-Law Systems, including French Law, outline co-ownership practices differing from Anglo-American law.</data>
+  <data key="d9">co-ownership,legal comparison</data>
+  <data key="d10">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Roman Law" target="German Law">
+  <data key="d7">1.0</data>
+  <data key="d8">German law draws from Roman law, maintaining similar principles regarding property rights and actions.</data>
+  <data key="d9">historical influence,legal relationship</data>
+  <data key="d10">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ejectment Action" target="Quiet-Title Action">
+  <data key="d7">1.0</data>
+  <data key="d8">The ejectment action and quiet-title action are both methods aimed at recovering and establishing property rights in the legal system.</data>
+  <data key="d9">legal procedures,property recovery</data>
+  <data key="d10">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Trespass" target="Possessory Actions">
+  <data key="d7">1.0</data>
+  <data key="d8">Trespass is a concept that often leads to possessory actions to recover damages or assert rights over a property.</data>
+  <data key="d9">legal recourse,property rights</data>
+  <data key="d10">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Movable Property Actions" target="French Revendication">
+  <data key="d7">1.0</data>
+  <data key="d8">The French revendication serves as a formal means of recovering property, paralleling actions in movable property law.</data>
+  <data key="d9">legal process,property recovery</data>
+  <data key="d10">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836183</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Anglo-American Systems" target="Statutory Possessory Action">
+  <data key="d7">1.0</data>
+  <data key="d8">Anglo-American systems often incorporate statutory possessory actions to aid in the recovery of property.</data>
+  <data key="d9">legal framework,property recovery</data>
+  <data key="d10">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Statutory Possessory Action" target="Injunction">
+  <data key="d7">1.0</data>
+  <data key="d8">An injunction may be issued in conjunction with statutory possessory actions to protect the rights of plaintiffs.</data>
+  <data key="d9">legal remedy,property protection</data>
+  <data key="d10">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Statutory Possessory Action" target="Forcible Entry and Detainer">
+  <data key="d7">1.0</data>
+  <data key="d8">Forcible entry and detainer is frequently the basis for statutory possessory actions aimed at reclaiming property.</data>
+  <data key="d9">legal mechanism,possession recovery</data>
+  <data key="d10">chunk-3db55e3cfb6d996646a6223672321b54</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Anglo-American Trust" target="Waqf">
+  <data key="d7">1.0</data>
+  <data key="d8">Waqf serves as a similar institution to the Anglo-American Trust in Islamic law.</data>
+  <data key="d9">comparison,legal concepts</data>
+  <data key="d10">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Charitable Trust" target="Civil Law Foundation">
+  <data key="d7">1.0</data>
+  <data key="d8">The Charitable Trust has a counterpart in civil law known as the foundation.</data>
+  <data key="d9">charitable purposes,legal equivalent</data>
+  <data key="d10">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Secured Transaction" target="Mortgage">
+  <data key="d7">1.0</data>
+  <data key="d8">Secured Transactions and Mortgages represent ways to manage property as collateral for financial obligations.</data>
+  <data key="d9">financial obligations,property rights</data>
+  <data key="d10">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mortgage" target="Equity Courts">
+  <data key="d7">1.0</data>
+  <data key="d8">Equity Courts intervene in mortgage scenarios to protect debtor rights and ensure fairness.</data>
+  <data key="d9">debtor protection,legal intervention</data>
+  <data key="d10">chunk-f30cc379bb0d23d68692c29ef88ef5de</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Edith" target="George">
+  <data key="d7">1.0</data>
+  <data key="d8">Edith is the mother of George, with a life estate arrangement stipulated in the text for property succession.</data>
+  <data key="d9">family relationship,inheritance</data>
+  <data key="d10">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="George" target="Contingencies">
+  <data key="d7">1.0</data>
+  <data key="d8">George's remainder interest can be made contingent upon specific conditions being met, such as age.</data>
+  <data key="d9">condition,future interests</data>
+  <data key="d10">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Tenancy" target="Landlord-Tenant Relationship">
+  <data key="d7">1.0</data>
+  <data key="d8">The landlord-tenant relationship is a manifestation of the concept of tenancy in property law.</data>
+  <data key="d9">legal relationship,occupancy rights</data>
+  <data key="d10">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Residential Tenancies" target="Commercial Tenancies">
+  <data key="d7">1.0</data>
+  <data key="d8">Residential tenancies and commercial tenancies are two different categories of rental agreements in property law.</data>
+  <data key="d9">lease agreements,legal categories</data>
+  <data key="d10">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Fee Simple" target="Fee Simple Determinable">
+  <data key="d7">1.0</data>
+  <data key="d8">Fee simple is categorized into variations such as fee simple determinable based on specific conditions attached to ownership.</data>
+  <data key="d9">legal classification,property ownership</data>
+  <data key="d10">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Fee Simple" target="Fee Simple Subject to a Condition Subsequent">
+  <data key="d7">1.0</data>
+  <data key="d8">Fee simple includes classifications like fee simple subject to a condition subsequent that highlight variations in property rights.</data>
+  <data key="d9">legal distinction,property ownership</data>
+  <data key="d10">chunk-15e6a315e9822d898cf2d6d3debf0ac8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Government Grants" target="Landlord-Tenant Law">
+  <data key="d7">1.0</data>
+  <data key="d8">The trend towards increased security in government grants relates to changes in landlord-tenant law benefiting tenants.</data>
+  <data key="d9">property law,security</data>
+  <data key="d10">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Anglo-American Property Law" target="Movable Property">
+  <data key="d7">1.0</data>
+  <data key="d8">Anglo-American property law differentiates between movable property and real property, reflecting historical legal practices.</data>
+  <data key="d9">legal distinction,property law</data>
+  <data key="d10">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836184</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Anglo-American Property Law" target="Immovable Property">
+  <data key="d7">1.0</data>
+  <data key="d8">Differentiation in Anglo-American property law also applies to immovable property, indicating evolving legal perspectives.</data>
+  <data key="d9">legal distinction,property law</data>
+  <data key="d10">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Noncitizens" target="American Indians">
+  <data key="d7">1.0</data>
+  <data key="d8">American Indians and noncitizens face specific property-holding restrictions in the legal framework of Western countries.</data>
+  <data key="d9">legal status,property rights</data>
+  <data key="d10">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Children" target="Competent Adult Women">
+  <data key="d7">1.0</data>
+  <data key="d8">In Western legal systems, children require parental consent to deal with property, while competent adult women have fewer restrictions.</data>
+  <data key="d9">legal capacity,property dealing</data>
+  <data key="d10">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Property-as-Commodity" target="Property-as-Propriety">
+  <data key="d7">1.0</data>
+  <data key="d8">The concepts of property-as-commodity and property-as-propriety represent differing views on the nature and purpose of property within legal frameworks.</data>
+  <data key="d9">conceptual distinction,legal perspective</data>
+  <data key="d10">chunk-d897550811fb362b11f30d05a77830b8</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Guardian" target="Incompetent">
+  <data key="d7">1.0</data>
+  <data key="d8">A Guardian is responsible for managing the property and affairs of an Incompetent individual.</data>
+  <data key="d9">guardianship</data>
+  <data key="d10">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Marital Property Regimes" target="Joint Tenancy">
+  <data key="d7">1.0</data>
+  <data key="d8">Marital property regimes facilitate various forms of property ownership, including Joint Tenancy.</data>
+  <data key="d9">legal framework,ownership structure</data>
+  <data key="d10">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Joint Tenancy" target="Tenancy in Common">
+  <data key="d7">1.0</data>
+  <data key="d8">Joint Tenancy and Tenancy in Common represent different kinds of co-ownership with distinct succession rights.</data>
+  <data key="d9">co-ownership comparison,legal distinction</data>
+  <data key="d10">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="English Common Law" target="Tenancy by the Entirety">
+  <data key="d7">1.0</data>
+  <data key="d8">English Common Law recognizes Tenancy by the Entirety as a unique form of property ownership for married couples.</data>
+  <data key="d9">legal principle,property ownership</data>
+  <data key="d10">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="20th Century" target="21st Century">
+  <data key="d7">1.0</data>
+  <data key="d8">The changes in marital property laws from the 20th Century to the 21st Century represent an evolution of legal principles regarding ownership.</data>
+  <data key="d9">historical context,legal evolution</data>
+  <data key="d10">chunk-c28deeed300429d7c272441fee592c5f</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Landlord-Tenant Relationships" target="Legislators">
+  <data key="d7">1.0</data>
+  <data key="d8">Legislators initiate changes in the law governing landlord-tenant relationships to address housing issues.</data>
+  <data key="d9">law-making,regulation</data>
+  <data key="d10">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Javins v. First Natl Realty Co." target="Local Housing Code">
+  <data key="d7">1.0</data>
+  <data key="d8">The Javins case influenced the requirement for residential leases to comply with local housing codes regarding habitability.</data>
+  <data key="d9">habitability,legal precedent</data>
+  <data key="d10">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Trustee" target="Beneficiary">
+  <data key="d7">1.0</data>
+  <data key="d8">The trustee manages trust property for the benefit of the beneficiary, holding a fiduciary duty to act in the beneficiary's best interests.</data>
+  <data key="d9">fiduciary duty,property management</data>
+  <data key="d10">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Trustee" target="Settlor">
+  <data key="d7">1.0</data>
+  <data key="d8">The settlor establishes a trust by designating a trustee to manage the conveyed property for beneficiaries.</data>
+  <data key="d9">property management,trust creation</data>
+  <data key="d10">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Beneficiary" target="Spendthrift Trust">
+  <data key="d7">1.0</data>
+  <data key="d8">The beneficiary's interest in a spendthrift trust is safeguarded against creditors, ensuring continued financial benefit.</data>
+  <data key="d9">asset protection,financial security</data>
+  <data key="d10">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Urban Housing" target="Deteriorated Housing Conditions">
+  <data key="d7">1.0</data>
+  <data key="d8">The state of urban housing is often linked to deteriorated housing conditions, prompting legal reforms for tenant protection.</data>
+  <data key="d9">housing issues,legal reform</data>
+  <data key="d10">chunk-2a7caf9193074699e0691d3250604eeb</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Gold" target="Lead">
+  <data key="d7">1.0</data>
+  <data key="d8">Gold and Lead have historically been linked to property rights and ownership laws in England.</data>
+  <data key="d9">historical ownership,legal implications</data>
+  <data key="d10">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Gold" target="Silver">
+  <data key="d7">1.0</data>
+  <data key="d8">Gold and Silver historically have been reserved for the crown, illustrating property rights issues.</data>
+  <data key="d9">historical ownership,legal implications</data>
+  <data key="d10">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Copyright" target="Patent">
+  <data key="d7">1.0</data>
+  <data key="d8">Copyright and Patents are both key forms of intellectual property recognized and protected under government rights.</data>
+  <data key="d9">government rights,intellectual property</data>
+  <data key="d10">chunk-4571328bad55741ff2b9b83c0811de82</data>
+  <data key="d11">property_law.txt</data>
+  <data key="d12">1774836185</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Sulfonylureas" target="Hypoglycemia">
+  <data key="d7">1.0</data>
+  <data key="d8">The use of sulfonylureas can lead to hypoglycemia, a common side effect particularly in elderly patients.</data>
+  <data key="d9">drug effect,side effect</data>
+  <data key="d10">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Sulfonylureas" target="Insulin Therapies">
+  <data key="d7">1.0</data>
+  <data key="d8">Sulfonylureas are among the oral medications that assist in controlling blood glucose levels alongside insulin therapies.</data>
+  <data key="d9">blood glucose control,medication class</data>
+  <data key="d10">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Biguanides" target="Metformin">
+  <data key="d7">1.0</data>
+  <data key="d8">Metformin is the primary biguanide recognized for its blood glucose-lowering properties.</data>
+  <data key="d9">class membership,primary drug</data>
+  <data key="d10">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Thiazolidinediones" target="Rosiglitazone">
+  <data key="d7">1.0</data>
+  <data key="d8">Rosiglitazone is a specific drug classified under thiazolidinediones used for managing blood glucose.</data>
+  <data key="d9">class membership,specific drug</data>
+  <data key="d10">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Thiazolidinediones" target="Pioglitazone">
+  <data key="d7">1.0</data>
+  <data key="d8">Pioglitazone is another specific drug in the thiazolidinediones class aimed at improving insulin sensitivity.</data>
+  <data key="d9">class membership,specific drug</data>
+  <data key="d10">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Thiazolidinediones" target="Edema">
+  <data key="d7">1.0</data>
+  <data key="d8">Thiazolidinediones can cause edema, manifesting as fluid accumulation in certain patients.</data>
+  <data key="d9">fluid accumulation,side effect</data>
+  <data key="d10">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Metformin" target="Lactic Acid">
+  <data key="d7">1.0</data>
+  <data key="d8">The use of metformin can lead to lactic acid accumulation, posing a serious health risk.</data>
+  <data key="d9">accumulation,side effect</data>
+  <data key="d10">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Pramlintide" target="Diabetes">
+  <data key="d7">1.0</data>
+  <data key="d8">Pramlintide is used as an injectable treatment for diabetes to manage blood glucose levels.</data>
+  <data key="d9">injectable drug,treatment</data>
+  <data key="d10">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Exenatide" target="Diabetes">
+  <data key="d7">1.0</data>
+  <data key="d8">Exenatide is used as an injectable treatment for diabetes, working similarly to incretins.</data>
+  <data key="d9">injectable drug,treatment</data>
+  <data key="d10">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Sitagliptin" target="Diabetes">
+  <data key="d7">1.0</data>
+  <data key="d8">Sitagliptin is a DPP-4 inhibitor used in diabetic treatment to enhance incretin levels.</data>
+  <data key="d9">DPP-4 inhibitor,treatment</data>
+  <data key="d10">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Semaglutide" target="Diabetes">
+  <data key="d7">1.0</data>
+  <data key="d8">Semaglutide serves as a treatment for diabetes by mimicking GLP-1 effects on glucose regulation.</data>
+  <data key="d9">GLP-1 mimic,treatment</data>
+  <data key="d10">chunk-13061af8ceaf1fb5f240b0dc1225d36f</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Diabetes Mellitus" target="Insulin Therapies">
+  <data key="d7">1.0</data>
+  <data key="d8">Insulin therapies are essential for the management of Diabetes Mellitus, helping control blood glucose levels.</data>
+  <data key="d9">management,treatment</data>
+  <data key="d10">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Diabetes Mellitus" target="Glucometer">
+  <data key="d7">1.0</data>
+  <data key="d8">Glucometers are essential for monitoring blood glucose levels in patients with Diabetes Mellitus.</data>
+  <data key="d9">blood glucose control,monitoring</data>
+  <data key="d10">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Diabetes Mellitus" target="Pancreas Transplantation">
+  <data key="d7">1.0</data>
+  <data key="d8">Pancreas transplantation serves as a potential treatment for patients with type 1 diabetes, aiming to restore insulin production.</data>
+  <data key="d9">surgical intervention,treatment option</data>
+  <data key="d10">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Insulin Therapies" target="Human Insulin">
+  <data key="d7">1.0</data>
+  <data key="d8">Human insulin is a form of insulin therapy that has replaced beef and pork insulin for managing diabetes.</data>
+  <data key="d9">diabetes management,modern treatment</data>
+  <data key="d10">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Insulin Therapies" target="Beta Cell Transplantation">
+  <data key="d7">1.0</data>
+  <data key="d8">Beta cell transplantation is explored as a treatment option within the broader context of insulin therapies for diabetes management.</data>
+  <data key="d9">diabetes management,treatment option</data>
+  <data key="d10">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838950</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Insulin Therapies" target="Insulin Pump">
+  <data key="d7">1.0</data>
+  <data key="d8">Insulin pumps are advanced devices used alongside insulin therapies to provide more precise insulin administration for diabetes management.</data>
+  <data key="d9">administration method,diabetes management</data>
+  <data key="d10">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838950</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Beef Insulin" target="Human Insulin">
+  <data key="d7">1.0</data>
+  <data key="d8">Beef insulin was historically used for diabetes treatment but has been discontinued in favor of human insulin.</data>
+  <data key="d9">discontinued use,historical treatment</data>
+  <data key="d10">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Pork Insulin" target="Human Insulin">
+  <data key="d7">1.0</data>
+  <data key="d8">Pork insulin was another older form of treatment that has been replaced by human insulin in diabetes care.</data>
+  <data key="d9">discontinued use,historical treatment</data>
+  <data key="d10">chunk-1d4db05eeb2c79e26d860c7775f19359</data>
+  <data key="d11">diabetes_insulin_therapies.txt</data>
+  <data key="d12">1774838950</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>
