@@ -518,5 +518,25 @@
     "create_time": 1774839111,
     "update_time": 1774839111,
     "_id": "global:keywords:866c823038c4e4ccbb8a9341725cb5de"
+  },
+  "global:keywords:66d2457bd20b59604889b1b584da4593": {
+    "return": "{\"high_level_keywords\": [\"Diabetes\", \"Causes of diabetes\"], \"low_level_keywords\": [\"Insulin resistance\", \"Blood sugar\", \"Genetic factors\", \"Lifestyle\", \"Diet\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "original_prompt": "당뇨병이 생기는 이유는 뭐야 ?",
+    "queryparam": {
+      "mode": "global",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1775921768,
+    "update_time": 1775921768,
+    "_id": "global:keywords:66d2457bd20b59604889b1b584da4593"
   }
 }
