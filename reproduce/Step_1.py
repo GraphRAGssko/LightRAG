@@ -2,8 +2,16 @@ import os
 import json
 import time
 import asyncio
+import numpy as np
 
 from lightrag import LightRAG
+from lightrag.llm.openai import gpt_4o_mini_complete, openai_embed
+from lightrag.utils import wrap_embedding_func_with_attrs
+
+@wrap_embedding_func_with_attrs(embedding_dim=3072, max_token_size=8192)
+async def custom_embed(texts: list[str]) -> np.ndarray:
+    # 래핑된 함수가 아닌 원본 함수(.func)를 호출하면서 model 파라미터 전달
+    return await openai_embed.func(texts, model="text-embedding-3-large")
 
 
 def insert_text(rag, file_path):
@@ -32,7 +40,11 @@ if not os.path.exists(WORKING_DIR):
 
 
 async def initialize_rag():
-    rag = LightRAG(working_dir=WORKING_DIR)
+    rag = LightRAG(
+        working_dir=WORKING_DIR,
+        llm_model_func=gpt_4o_mini_complete,
+        embedding_func=custom_embed,
+    )
 
     await rag.initialize_storages()  # Auto-initializes pipeline_status
     return rag

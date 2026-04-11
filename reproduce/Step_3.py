@@ -53,11 +53,28 @@ def run_queries_and_save_to_json(
 
 
 if __name__ == "__main__":
+    import numpy as np
+    from lightrag.utils import wrap_embedding_func_with_attrs
+    from lightrag.llm.openai import gpt_4o_mini_complete, openai_embed
+
+    @wrap_embedding_func_with_attrs(embedding_dim=3072, max_token_size=8192)
+    async def custom_embed(texts: list[str]) -> np.ndarray:
+        return await openai_embed.func(texts, model="text-embedding-3-large")
+
     cls = "agriculture"
     mode = "hybrid"
     WORKING_DIR = f"../{cls}"
 
-    rag = LightRAG(working_dir=WORKING_DIR)
+    rag = LightRAG(
+        working_dir=WORKING_DIR,
+        llm_model_func=gpt_4o_mini_complete,
+        embedding_func=custom_embed,
+    )
+    
+    # Storage 초기화 (비동기 함수이므로 event loop를 통해 실행해야 함)
+    loop = always_get_an_event_loop()
+    loop.run_until_complete(rag.initialize_storages())
+
     query_param = QueryParam(mode=mode)
 
     queries = extract_queries(f"../datasets/questions/{cls}_questions.txt")

@@ -1,0 +1,57 @@
+[
+  {
+    "input": "What is the primary purpose of the Restructuring Support Agreement?",
+    "context": "Exhibit 10.1\n\nEXECUTION VERSION\n\nCONFIDENTIAL – Subject to FRE 408\n\nTHIS RESTRUCTURING SUPPORT AGREEMENT DOES NOT CONSTITUTE (NOR SHALL IT BE\nCONSTRUED AS) AN OFFER WITH RESPECT TO ANY SECURITIES OR A SOLICITATION OF\nACCEPTANCES OR REJECTIONS AS TO ANY PLAN OF REORGANIZATION. ANY SUCH OFFER OR\nSOLICITATION WILL COMPLY WITH ALL APPLICABLE PROVISIONS OF SECURITIES,\nBANKRUPTCY, AND/OR OTHER APPLICABLE LAWS.\n\n \n\n \n\n \n\nRESTRUCTURING SUPPORT AGREEMENT\n\nAMONG\n\nENDOLOGIX, INC.\n\nAND\n\nTHE SUPPORTING LENDERS IDENTIFIED HEREIN\n\nDATED AS OF JULY 5, 2020\n\n \n\n \n\n \n\n\n\n--------------------------------------------------------------------------------\n\nTABLE OF CONTENTS\n\n \n\n         Page   ARTICLE I        DEFINITIONS       \n\nSection 1.1\n\n \n\nDefined Terms\n\n     6  \n\nSection 1.2\n\n \n\nTerms Defined Elsewhere in this Agreement\n\n     15   ARTICLE II        DEFINITIVE DOCUMENTS       \n\nSection 2.1\n\n \n\nIncorporation of Exhibits and Schedules\n\n     17  \n\nSection 2.2\n\n \n\nDefinitive Documents\n\n     17   ARTICLE III\n\n... [비용 절감을 위해 내용 생략됨]",
+    "dataset": "",
+    "label": "legal",
+    "answers": [
+      "The primary purpose of the Restructuring Support Agreement is to facilitate the restructuring of Endologix, Inc. and its subsidiaries (the \"Company\") in accordance with a pre-negotiated chapter 11 plan of reorganization."
+    ],
+    "_id": "d92def372f4f87925fd017a5350fb6f2",
+    "length": 56441
+  },
+  {
+    "input": "What are the key commitments of the Supporting Lenders under the agreement?",
+    "context": "Exhibit 10.1\n\nEXECUTION VERSION\n\nCONFIDENTIAL – Subject to FRE 408\n\nTHIS RESTRUCTURING SUPPORT AGREEMENT DOES NOT CONSTITUTE (NOR SHALL IT BE\nCONSTRUED AS) AN OFFER WITH RESPECT TO ANY SECURITIES OR A SOLICITATION OF\nACCEPTANCES OR REJECTIONS AS TO ANY PLAN OF REORGANIZATION. ANY SUCH OFFER OR\nSOLICITATION WILL COMPLY WITH ALL APPLICABLE PROVISIONS OF SECURITIES,\nBANKRUPTCY, AND/OR OTHER APPLICABLE LAWS.\n\n \n\n \n\n \n\nRESTRUCTURING SUPPORT AGREEMENT\n\nAMONG\n\nENDOLOGIX, INC.\n\nAND\n\nTHE SUPPORTING LENDERS IDENTIFIED HEREIN\n\nDATED AS OF JULY 5, 2020\n\n \n\n \n\n \n\n\n\n--------------------------------------------------------------------------------\n\nTABLE OF CONTENTS\n\n \n\n         Page   ARTICLE I        DEFINITIONS       \n\nSection 1.1\n\n \n\nDefined Terms\n\n     6  \n\nSection 1.2\n\n \n\nTerms Defined Elsewhere in this Agreement\n\n     15   ARTICLE II        DEFINITIVE DOCUMENTS       \n\nSection 2.1\n\n \n\nIncorporation of Exhibits and Schedules\n\n     17  \n\nSection 2.2\n\n \n\nDefinitive Documents\n\n     17   ARTICLE III\n\n... [비용 절감을 위해 내용 생략됨]",
+    "dataset": "",
+    "label": "legal",
+    "answers": [
+      "The key commitments of the Supporting Lenders include supporting the restructuring, voting their claims to accept the plan, refraining from changing or revoking their vote, and not objecting to, delaying, or opposing the approval, acceptance, or implementation of the restructuring."
+    ],
+    "_id": "c1939bfcf42ac0ea3e88567da619a126",
+    "length": 56441
+  },
+  {
+    "input": "What are the conditions precedent to the obligation of the Company and the Supporting Lenders to consummate the transactions?",
+    "context": "Exhibit 10.1\n\nEXECUTION VERSION\n\nCONFIDENTIAL – Subject to FRE 408\n\nTHIS RESTRUCTURING SUPPORT AGREEMENT DOES NOT CONSTITUTE (NOR SHALL IT BE\nCONSTRUED AS) AN OFFER WITH RESPECT TO ANY SECURITIES OR A SOLICITATION OF\nACCEPTANCES OR REJECTIONS AS TO ANY PLAN OF REORGANIZATION. ANY SUCH OFFER OR\nSOLICITATION WILL COMPLY WITH ALL APPLICABLE PROVISIONS OF SECURITIES,\nBANKRUPTCY, AND/OR OTHER APPLICABLE LAWS.\n\n \n\n \n\n \n\nRESTRUCTURING SUPPORT AGREEMENT\n\nAMONG\n\nENDOLOGIX, INC.\n\nAND\n\nTHE SUPPORTING LENDERS IDENTIFIED HEREIN\n\nDATED AS OF JULY 5, 2020\n\n \n\n \n\n \n\n\n\n--------------------------------------------------------------------------------\n\nTABLE OF CONTENTS\n\n \n\n         Page   ARTICLE I        DEFINITIONS       \n\nSection 1.1\n\n \n\nDefined Terms\n\n     6  \n\nSection 1.2\n\n \n\nTerms Defined Elsewhere in this Agreement\n\n     15   ARTICLE II        DEFINITIVE DOCUMENTS       \n\nSection 2.1\n\n \n\nIncorporation of Exhibits and Schedules\n\n     17  \n\nSection 2.2\n\n \n\nDefinitive Documents\n\n     17   ARTICLE III\n\n... [비용 절감을 위해 내용 생략됨]",
+    "dataset": "",
+    "label": "legal",
+    "answers": [
+      "The conditions precedent include no injunctions or orders restraining or making the transactions illegal, no orders dismissing or converting the Chapter 11 Cases, and no Alternative Transaction being entered into by the Company."
+    ],
+    "_id": "d3dd3816138626a5fc316084fad9b5ea",
+    "length": 56441
+  },
+  {
+    "input": "What are the representations and warranties of the Company regarding its qualification, organization, and subsidiaries?",
+    "context": "Exhibit 10.1\n\nEXECUTION VERSION\n\nCONFIDENTIAL – Subject to FRE 408\n\nTHIS RESTRUCTURING SUPPORT AGREEMENT DOES NOT CONSTITUTE (NOR SHALL IT BE\nCONSTRUED AS) AN OFFER WITH RESPECT TO ANY SECURITIES OR A SOLICITATION OF\nACCEPTANCES OR REJECTIONS AS TO ANY PLAN OF REORGANIZATION. ANY SUCH OFFER OR\nSOLICITATION WILL COMPLY WITH ALL APPLICABLE PROVISIONS OF SECURITIES,\nBANKRUPTCY, AND/OR OTHER APPLICABLE LAWS.\n\n \n\n \n\n \n\nRESTRUCTURING SUPPORT AGREEMENT\n\nAMONG\n\nENDOLOGIX, INC.\n\nAND\n\nTHE SUPPORTING LENDERS IDENTIFIED HEREIN\n\nDATED AS OF JULY 5, 2020\n\n \n\n \n\n \n\n\n\n--------------------------------------------------------------------------------\n\nTABLE OF CONTENTS\n\n \n\n         Page   ARTICLE I        DEFINITIONS       \n\nSection 1.1\n\n \n\nDefined Terms\n\n     6  \n\nSection 1.2\n\n \n\nTerms Defined Elsewhere in this Agreement\n\n     15   ARTICLE II        DEFINITIVE DOCUMENTS       \n\nSection 2.1\n\n \n\nIncorporation of Exhibits and Schedules\n\n     17  \n\nSection 2.2\n\n \n\nDefinitive Documents\n\n     17   ARTICLE III\n\n... [비용 절감을 위해 내용 생략됨]",
+    "dataset": "",
+    "label": "legal",
+    "answers": [
+      "The Company represents and warrants that it and its subsidiaries are duly organized, validly existing, and in good standing under the laws of their respective jurisdictions, have all requisite power and authority to own their properties and assets, and are duly qualified to do business and in good standing in each jurisdiction where required."
+    ],
+    "_id": "71da9c670270376ed3acad29fa048c54",
+    "length": 56441
+  },
+  {
+    "input": "What are the conditions to the obligation of the Company to consummate the transactions?",
+    "context": "Exhibit 10.1\n\nEXECUTION VERSION\n\nCONFIDENTIAL – Subject to FRE 408\n\nTHIS RESTRUCTURING SUPPORT AGREEMENT DOES NOT CONSTITUTE (NOR SHALL IT BE\nCONSTRUED AS) AN OFFER WITH RESPECT TO ANY SECURITIES OR A SOLICITATION OF\nACCEPTANCES OR REJECTIONS AS TO ANY PLAN OF REORGANIZATION. ANY SUCH OFFER OR\nSOLICITATION WILL COMPLY WITH ALL APPLICABLE PROVISIONS OF SECURITIES,\nBANKRUPTCY, AND/OR OTHER APPLICABLE LAWS.\n\n \n\n \n\n \n\nRESTRUCTURING SUPPORT AGREEMENT\n\nAMONG\n\nENDOLOGIX, INC.\n\nAND\n\nTHE SUPPORTING LENDERS IDENTIFIED HEREIN\n\nDATED AS OF JULY 5, 2020\n\n \n\n \n\n \n\n\n\n--------------------------------------------------------------------------------\n\nTABLE OF CONTENTS\n\n \n\n         Page   ARTICLE I        DEFINITIONS       \n\nSection 1.1\n\n \n\nDefined Terms\n\n     6  \n\nSection 1.2\n\n \n\nTerms Defined Elsewhere in this Agreement\n\n     15   ARTICLE II        DEFINITIVE DOCUMENTS       \n\nSection 2.1\n\n \n\nIncorporation of Exhibits and Schedules\n\n     17  \n\nSection 2.2\n\n \n\nDefinitive Documents\n\n     17   ARTICLE III\n\n... [비용 절감을 위해 내용 생략됨]",
+    "dataset": "",
+    "label": "legal",
+    "answers": [
+      "The conditions to the obligation of the Company include the truth and correctness of the Supporting Lenders' specified representations, the performance of the Supporting Lenders' covenants and agreements, and the entry of the Confirmation Order by the Bankruptcy Court."
+    ],
+    "_id": "0dce2601a069cc0ec1b73c3811dcd0d0",
+    "length": 56441
+  }
+]

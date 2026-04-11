@@ -15,6 +15,15 @@ venv/
 .env
 .env.backup.*
 
+# large data files
+legal.jsonl
+agriculture.jsonl
+datasets/agriculture.jsonl
+myssko/legal.jsonl
+agriculture/
+dot.env
+.env.origin
+
 # Generated Docker Compose files (output of setup wizard)
 docker-compose.*.yml
 

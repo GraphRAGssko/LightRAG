@@ -55,8 +55,8 @@ const createSigmaSettings = (isDarkTheme: boolean): Partial<SigmaSettings> => ({
     color: isDarkTheme ? labelColorDarkTheme : labelColorLightTheme,
     attribute: 'labelColor'
   },
-  edgeLabelSize: 8,
-  labelSize: 12
+  edgeLabelSize: 14,
+  labelSize: 14
   // minEdgeThickness: 2
   // labelFont: 'Lato, sans-serif'
 })

@@ -1,4 +1,5 @@
-from __future__ import annotations
+# %%
+# from __future__ import annotations
 
 import traceback
 import asyncio
@@ -24,6 +25,9 @@ from typing import (
     Dict,
     Union,
 )
+# %%
+
+# %%
 from lightrag.prompt import PROMPTS
 from lightrag.exceptions import PipelineCancelledException
 from lightrag.constants import (
@@ -115,7 +119,7 @@ from lightrag.utils import (
 )
 from lightrag.types import KnowledgeGraph
 from dotenv import load_dotenv
-
+# %%
 # use the .env that is inside the current folder
 # allows to use different .env file for each lightrag instance
 # the OS environment variables take precedence over the .env file
